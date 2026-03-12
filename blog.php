@@ -7,14 +7,65 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Sanito - HTML 5 Template Preview</title>
+<title>Pest Control Blog | Tips & Guides - Pestech Solutions</title>
 
-<!-- Fav Icon -->
-<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+<!-- Primary SEO -->
+<meta name="title" content="Pest Control Blog | Tips & Guides - Pestech Solutions">
+<meta name="description" content="Read the latest pest control tips, guides, and expert advice from Pestech Solutions. Learn how to prevent termites, cockroaches, rodents, mosquitoes, ants and other pests in homes and offices.">
+<meta name="keywords" content="Pest Control Blog, Pest Control Tips India, Termite Prevention Guide, Cockroach Control Tips, Mosquito Control Tips, Rodent Prevention Guide">
+<meta name="author" content="Pestech Solutions">
+<meta name="robots" content="index, follow">
+<meta name="language" content="English">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://yourdomain.com/blog.html">
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo/favicon-16x16.png">
+<link rel="icon" href="assets/images/logo/favicon.ico">
+
+<!-- Android Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="assets/images/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/images/logo/android-chrome-512x512.png">
+
+<!-- Manifest -->
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
+
+<!-- Theme Color -->
+<meta name="theme-color" content="#2a7c2a">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Pest Control Blog | Tips & Guides - Pestech Solutions">
+<meta property="og:description" content="Discover expert pest control tips and prevention guides for termites, cockroaches, rodents and mosquitoes.">
+<meta property="og:url" content="https://yourdomain.com/blog.html">
+<meta property="og:site_name" content="Pestech Solutions">
+<meta property="og:locale" content="en_IN">
+<meta property="og:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pest Control Blog | Tips & Guides - Pestech Solutions">
+<meta name="twitter:description" content="Expert pest control tips and guides from Pestech Solutions.">
+<meta name="twitter:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+
+<!-- Geo Location -->
+<meta name="geo.region" content="IN-UP">
+<meta name="geo.placename" content="Ghaziabad">
+<meta name="geo.position" content="28.6692;77.4538">
+<meta name="ICBM" content="28.6692,77.4538">
+
+<!-- Additional SEO -->
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="revisit-after" content="7 days">
+<meta name="google" content="notranslate">
 
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900&display=swap" rel="stylesheet">
 
 <!-- Stylesheets -->
 <link href="assets/css/font-awesome-all.css" rel="stylesheet">
