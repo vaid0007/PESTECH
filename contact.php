@@ -191,22 +191,20 @@
 
         <!-- google-map-section -->
         <section class="google-map-section">
-            <div class="map-inner">
-                <div 
-                    class="google-map" 
-                    id="contact-google-map" 
-                    data-map-lat="40.712776" 
-                    data-map-lng="-74.005974" 
-                    data-icon-path="assets/images/icons/map-marker.png"  
-                    data-map-title="Brooklyn, New York, United Kingdom" 
-                    data-map-zoom="12" 
-                    data-markers='{
-                        "marker-1": [40.712776, -74.005974, "<h4>Branch Office</h4><p>77/99 New York</p>","assets/images/icons/map-marker.png"]
-                    }'>
+    <div class="map-inner">
 
-                </div>
-            </div>
-        </section>
+        <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3501.562017682591!2d77.31848167550119!3d28.64288607565912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM4JzM0LjQiTiA3N8KwMTknMTUuOCJF!5e0!3m2!1sen!2sin!4v1773384250438!5m2!1sen!2sin"
+            width="100%"
+            height="500"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+
+    </div>
+</section>
         <!-- google-map-section end -->
 
 

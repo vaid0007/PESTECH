@@ -145,68 +145,236 @@
 
         <!-- feature-style-two -->
         <section class="feature-style-two sec-pad">
-            <div class="auto-container">
-                <div class="upper-content">
-                    <div class="row clearfix">
-                        <div class="col-lg-6 col-md-12 col-sm-12 title-column">
-                            <div class="sec-title text-left">
-                                <h6>Who we Are</h6>
-                                <h2>Trust & Quality Cleaning Service Provider</h2>
-                                <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12 col-sm-12 inner-column">
-                            <div class="inner-box clearfix">
-                                <div class="single-item">
-                                    <div class="icon-box"><i class="flaticon-clean-1"></i></div>
-                                    <h2>2.5k</h2>
-                                    <h5>Cleaning <br />Project Completed</h5>
-                                    <div class="link"><a href="project.html"><i class="fal fa-angle-right"></i>Our Projects</a></div>
-                                </div>
-                                <div class="single-item">
-                                    <div class="icon-box"><i class="flaticon-money"></i></div>
-                                    <h2>100%</h2>
-                                    <h5>Low Cost <br />Comparing Others</h5>
-                                    <div class="link"><a href="reviews.html"><i class="fal fa-angle-right"></i>Our Reviews</a></div>
-                                </div>
-                            </div>
-                        </div>
+    <div class="auto-container">
+
+        <div class="upper-content">
+            <div class="row clearfix">
+
+                <div class="col-lg-6 col-md-12 col-sm-12 title-column">
+                    <div class="sec-title text-left">
+                        <h6>Who We Are</h6>
+                        <h2>Trusted Pest Control Experts for Homes & Businesses</h2>
+
+                        <p>Pestech Solution is a professional pest control service provider offering safe and effective treatments for termites, cockroaches, rodents, ants, flies, and mosquitoes. Our experienced team uses advanced pest management techniques to protect homes, offices, and commercial spaces from harmful pest infestations.</p>
                     </div>
                 </div>
-                <div class="inner-container clearfix">
-                    <div class="single-column">
-                        <figure class="image-box"><img src="assets/images/resource/feature-1.jpg" alt=""></figure>
-                    </div>
-                    <div class="single-column">
-                        <div class="review-box bg-color-2">
-                            <div class="icon-box"><i class="flaticon-quote"></i></div>
-                            <div class="text">
-                                <p>Sanito is a Leading <br />Regional Commercial Sanitorial Company Headquartered in Los Angeles.</p>
-                            </div>
-                            <div class="author-info">
-                                <h4>Nathan Felix</h4>
-                                <h6>CEO & Founder of Sanito</h6>
+
+                <div class="col-lg-6 col-md-12 col-sm-12 inner-column">
+                    <div class="inner-box clearfix">
+
+                        <div class="single-item">
+                            <div class="icon-box"><i class="flaticon-clean-1"></i></div>
+                            <h2>1500+</h2>
+                            <h5>Pest Control <br />Projects Completed</h5>
+                            <div class="link">
+                                <a href="project.html">
+                                    <i class="fal fa-angle-right"></i>Our Projects
+                                </a>
                             </div>
                         </div>
+
+                        <div class="single-item">
+                            <div class="icon-box"><i class="flaticon-money"></i></div>
+                            <h2>100%</h2>
+                            <h5>Customer <br />Satisfaction</h5>
+                            <div class="link">
+                                <a href="reviews.html">
+                                    <i class="fal fa-angle-right"></i>Client Reviews
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
-                    <div class="single-column">
-                        <div class="inner-box bg-color-1">
-                            <div class="shape" style="background-image: url(assets/images/icons/star-6.png);"></div>
-                            <h3>Our Statements</h3>
-                            <p>Denounce with righteous indignation and dislike men who are beguiled.</p>
-                            <ul class="list clearfix">
-                                <li>Best Practice</li>
-                                <li>Support</li>
-                                <li>Operational Excellence</li>
-                                <li>Empowerment</li>
-                                <li>Protect</li>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="inner-container clearfix">
+
+            <div class="single-column">
+                <figure class="image-box">
+                    <img src="assets/images/resource/feature-1.jpg" alt="Professional Pest Control Service">
+                </figure>
+            </div>
+
+
+            <div class="single-column">
+                <div class="review-box bg-color-2">
+
+                    <div class="icon-box"><i class="flaticon-quote"></i></div>
+
+                    <div class="text">
+                        <p>Pestech Solution provides reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, helping families and businesses stay safe from termites, cockroaches, rodents, and mosquitoes.</p>
+                    </div>
+
+                    <div class="author-info">
+                        <h4>Pestech Solution Team</h4>
+                        <h6>Pest Control Specialists</h6>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="single-column">
+                <div class="inner-box bg-color-1">
+
+                    <div class="shape" style="background-image: url(assets/images/icons/star-6.png);"></div>
+
+                    <h3>Our Commitment</h3>
+
+                    <p>We are committed to providing safe, reliable, and affordable pest control solutions for residential and commercial properties.</p>
+
+                    <ul class="list clearfix">
+                        <li>Safe Pest Control Methods</li>
+                        <li>Experienced Technicians</li>
+                        <li>Advanced Treatment Technology</li>
+                        <li>Fast & Reliable Service</li>
+                        <li>Long-Term Pest Prevention</li>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+        <!-- feature-style-two end -->
+
+        <!-- about-section -->
+        <section class="about-section">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                <div class="content_block_1">
+                    <div class="content-box">
+
+                        <div class="sec-title text-left">
+                            <h6>Our Vision</h6>
+                            <h2>Creating Pest-Free <br />Homes & Workplaces</h2>
+                        </div>
+
+                        <div class="text">
+                            <p>Our vision at Pestech Solution is to become a trusted pest control service provider delivering safe, effective, and eco-friendly pest management solutions. We aim to protect homes, offices, and commercial spaces from termites, cockroaches, rodents, mosquitoes, and other harmful pests.</p>
+                        </div>
+
+                        <div class="inner-box clearfix">
+
+                            <ul class="left-column pull-left">
+                                <li>
+                                    <h6>Our Goal</h6>
+                                    <h4>Healthy Pest-Free Environment</h4>
+                                </li>
+
+                                <li>
+                                    <h6>Our Mission</h6>
+                                    <h4>Reliable Pest Control Solutions</h4>
+                                </li>
                             </ul>
+
+                            <ul class="right-column pull-right">
+
+                                <li>
+                                    <i class="flaticon-check-mark"></i>
+                                    <p>Provide safe and effective pest control services for residential and commercial spaces.</p>
+                                </li>
+
+                                <li>
+                                    <i class="flaticon-check-mark"></i>
+                                    <p>Use modern pest management techniques to prevent termite, cockroach, rodent, and mosquito infestations.</p>
+                                </li>
+
+                            </ul>
+
                         </div>
+
+                        <div class="btn-box">
+                            <a href="contact.html" class="theme-btn-three thm-btn">Book Pest Control Service</a>
+                        </div>
+
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- feature-style-two end -->
+
+
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                <div class="image_block_1">
+                    <div class="image-box">
+
+                        <figure class="image image-1">
+                            <img src="assets/images/resource/about-1.png" alt="Professional Pest Control Service">
+                        </figure>
+
+                        <figure class="image image-2">
+                            <img src="assets/images/resource/about-2.png" alt="Pest Control Experts">
+                        </figure>
+
+                        <div class="image-3-bg"></div>
+
+                        <figure class="image image-3 rotate-me">
+                            <img src="assets/images/resource/about-4.png" alt="Pest Control Treatment">
+                        </figure>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+        <!-- about-section end -->
+
+         <!-- about-style-two -->
+        <section class="about-style-two sec-pad bg-color-3">
+    <div class="image-layer" style="background-image: url(assets/images/background/about-1.jpg);"></div>
+
+    <div class="auto-container">
+
+        <div class="sec-title text-left">
+            <h6>Our Mission</h6>
+            <h2>Providing Safe & Reliable <br />Pest Control Solutions</h2>
+        </div>
+
+        <div class="row clearfix">
+
+            <div class="col-lg-5 col-md-6 col-sm-12 image-column">
+                <div class="image-box">
+                    <figure class="image">
+                        <img src="assets/images/resource/about-1.jpg" alt="Professional Pest Control Service">
+                    </figure>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12 content-column">
+                <div class="content_block_8">
+                    <div class="content-box">
+
+                        <p>
+                            Our mission at Pestech Solution is to provide effective and eco-friendly pest control services that protect homes, offices, and commercial spaces from harmful pests such as termites, cockroaches, rodents, ants, flies, and mosquitoes.
+                        </p>
+
+                        <ul class="list clearfix">
+                            <li>Professional Termite Treatment Services</li>
+                            <li>Cockroach & Rodent Control Solutions</li>
+                            <li>Mosquito Treatment & Fogging Services</li>
+                            <li>Advanced Pest Control Technology</li>
+                        </ul>
+
+                        <h4>Pestech Solution Team <span>Pest Control Specialists</span></h4>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+        <!-- about-style-two end -->
 
 
         <!-- award-section -->
@@ -251,20 +419,12 @@
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                                <div class="social-links">
-                                    <span>+</span>
-                                    <ul class="social-list clearfix">
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-1.png" alt="">
+                                    <img src="assets/images/team/team-.png" alt="">
                                     <a href="index-2.html"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">Evan Adrian</a></h4>
+                                    <h4><a href="index-2.html">John Doe</a></h4>
                                     <span class="designation">Manager</span>
                                 </div>
                             </div>
@@ -274,20 +434,12 @@
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                                <div class="social-links">
-                                    <span>+</span>
-                                    <ul class="social-list clearfix">
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-2.png" alt="">
+                                    <img src="assets/images/team/team-.png" alt="">
                                     <a href="index-2.html"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">Luna Charlotte</a></h4>
+                                    <h4><a href="index-2.html">John Doe</a></h4>
                                     <span class="designation">Ass. Manager</span>
                                 </div>
                             </div>
@@ -297,20 +449,12 @@
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                                <div class="social-links">
-                                    <span>+</span>
-                                    <ul class="social-list clearfix">
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-3.png" alt="">
+                                    <img src="assets/images/team/team-.png" alt="">
                                     <a href="index-2.html"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">Issac Joshua</a></h4>
+                                    <h4><a href="index-2.html">John Doe</a></h4>
                                     <span class="designation">Team Head</span>
                                 </div>
                             </div>
@@ -320,20 +464,12 @@
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                                <div class="social-links">
-                                    <span>+</span>
-                                    <ul class="social-list clearfix">
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-4.png" alt="">
+                                    <img src="assets/images/team/team-.png" alt="">
                                     <a href="index-2.html"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">Easton Roman</a></h4>
+                                    <h4><a href="index-2.html">John Doe</a></h4>
                                     <span class="designation">Senior Cleaner</span>
                                 </div>
                             </div>
@@ -367,7 +503,7 @@
 
 
         <!-- chooseus-section -->
-        <section class="chooseus-section sec-pad">
+        <!-- <section class="chooseus-section sec-pad">
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <h6>chooseus-section</h6>
@@ -468,32 +604,65 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- chooseus-section end -->
 
 
         <!-- clients-section -->
         <section class="clients-section sec-pad">
-            <div class="auto-container">
-                <div class="upper-title clearfix">
-                    <div class="sec-title text-left pull-left">
-                        <h6>Cutomers & Partners</h6>
-                        <h2>Our Trusted Companies</h2>
-                    </div>
-                    <div class="text pull-left">
-                        <p>Denounce with righteous indignation and dislike men who are  beguiled and demoralized by the charms of pleasure.</p>
-                    </div>
-                </div>
-                <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                    <figure class="clients-logo-box"><a href="index.html"><img src="assets/images/clients/clients-logo-1.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index.html"><img src="assets/images/clients/clients-logo-2.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index.html"><img src="assets/images/clients/clients-logo-3.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index.html"><img src="assets/images/clients/clients-logo-4.png" alt=""></a></figure>
-                </div>
-                <div class="other-text centred"><p>We are pleased to work with thousands of partners , <a href="index.html">Join With Us</a></p></div>
+    <div  class="auto-container">
+
+        <div class="upper-title clearfix">
+
+            <div class="sec-title text-left pull-left">
+                <h6>Customers & Partners</h6>
+                <h2>Trusted By Homes & Businesses</h2>
             </div>
+
+            <div class="text pull-left">
+                <p>Pestech Solutions is trusted by residential homes, offices, restaurants, and commercial properties for professional pest control services including termite treatment, cockroach control, mosquito treatment, and rodent control.</p>
+            </div>
+
+        </div>
+
+        <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/clients-logo-1.png" alt="Trusted Pest Control Service Partner">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/clients-logo-2.png" alt="Residential Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/clients-logo-3.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/clients-logo-4.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+        </div>
+
+        <div class="other-text centred">
+            <p>Providing reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, <a href="contact.html">Book Our Service</a></p>
+        </div>
+
+    </div>
         </section>
         <!-- clients-section end -->
+         
+
+        
 
 
         <!-- subscribe-section -->
