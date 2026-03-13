@@ -89,40 +89,6 @@
     <div class="boxed_wrapper">
 
 
-        <!-- preloader -->
-        <div class="loader-wrap">
-            <div class="preloader">
-                <div class="preloader-close">Preloader Close</div>
-                <div id="handle-preloader" class="handle-preloader">
-                    <div class="animation-preloader">
-                        <div class="spinner"></div>
-                        <div class="txt-loading">
-                            <span data-text-preloader="s" class="letters-loading">
-                                s
-                            </span>
-                            <span data-text-preloader="a" class="letters-loading">
-                                a
-                            </span>
-                            <span data-text-preloader="n" class="letters-loading">
-                                n
-                            </span>
-                            <span data-text-preloader="i" class="letters-loading">
-                                i
-                            </span>
-                            <span data-text-preloader="t" class="letters-loading">
-                                t
-                            </span>
-                            <span data-text-preloader="o" class="letters-loading">
-                                o
-                            </span>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-        </div>
-        <!-- preloader end -->
-
-
         <?php include 'header.php'?>
 
 
@@ -131,7 +97,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Municipalities</h1>
+                        <h1>Mosquito Fogging</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.html">Home</a></li>
@@ -152,12 +118,13 @@
                         <div class="service-sidebar">
                             <div class="sidebar-widget category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="service-details.html">Hospitality & Hotel</a></li>
-                                    <li><a href="service-details-2.html" class="current">Municipalities</a></li>
-                                    <li><a href="service-details-3.html">Education Centre</a></li>
-                                    <li><a href="service-details-4.html">Office Buildings</a></li>
-                                    <li><a href="service-details-5.html">Restaurants</a></li>
-                                    <li><a href="service-details-6.html">Car Showrooms</a></li>
+                                <li><a href="termite-treatment.html">Termite Treatment</a></li>
+<li><a href="cockroach-treatment.html">Cockroach Treatment</a></li>
+<li><a href="rodent-treatment.html">Rodent Treatment</a></li>
+<li><a href="ant-treatment.html">Ant Treatment</a></li>
+<li><a href="mosquito-treatment.html">Mosquito Treatment</a></li>
+<li><a href="mosquito-fogging.html">Mosquito Fogging for Societies</a></li>
+<li><a href="fly-treatment.html">Fly Treatment</a></li>
                                 </ul>
                             </div>
                             <div class="sidebar-widget banner-widget">
@@ -204,85 +171,122 @@
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <div class="content-one">
-                                <figure class="image-box"><img src="assets/images/service/service-11.jpg" alt=""></figure>
-                                <h3>Cleaning Services That We Provide</h3>
-                                <div class="text">
-                                    <p>Beguiled and demoralized by the charms of pleasure the moment, so blinded by desire that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their which is the same as saying through shrinking.</p>
-                                    <p>Foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail.</p>
-                                    <p>Charms of pleasure the moment, so blinded by desire that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their.</p>
-                                </div>
-                            </div>
-                            <div class="content-two">
-                                <div class="row clearfix">
-                                    <div class="col-lg-6 col-md-6 col-sm-12 inner-column">
-                                        <div class="inner-box">
-                                            <div class="single-item">
-                                                <div class="icon-box"><i class="flaticon-office-building"></i></div>
-                                                <h4>Office Building</h4>
-                                                <p>Business will frequently occur the pleasures have  be repudiated annoyances accepted choice.</p>
-                                            </div>
-                                            <div class="single-item">
-                                                <div class="icon-box"><i class="flaticon-workplace"></i></div>
-                                                <h4>Communal Area</h4>
-                                                <p>Righteous indignation and dislike men who are so beguiled and by the of pleasure of the moment.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12 image-column">
-                                        <div class="image-box">
-                                            <figure class="image"><img src="assets/images/service/service-9.jpg" alt=""></figure>
-                                            <div class="doc-content">
-                                                <h6>Service Brochure</h6>
-                                                <span>65 KB.pdf</span>
-                                                <a href="service-details.html">Download</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="content-three">
-                                <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/service/service-10.jpg" alt=""></figure>
-                                    <div class="text">
-                                        <div class="shape" style="background-image: url(assets/images/icons/star-6.png);"></div>
-                                        <h3>Our Service Includes</h3>
-                                        <p>Indignation and dislike men who  beguiled demoralized moment.</p>
-                                        <ul class="list clearfix">
-                                            <li>Restroom Disinfection</li>
-                                            <li>Waxing</li>
-                                            <li>Carpet Cleaning</li>
-                                            <li>Hard Wood Floor Care</li>
-                                            <li>Carpet Cleaning</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="content-four">
-                                <h3>One-Time Cleaning Cost</h3>
-                                <div class="cost-box clearfix">
-                                    <ul class="single-item">
-                                        <li class="title"><h5>Total Sq.ft (Approx)</h5></li>
-                                        <li>0–1000 square feet</li>
-                                        <li>1000–2000 square feet</li>
-                                        <li>3000–4000 square feet</li>
-                                        <li>5000–6000 square feet</li>
-                                    </ul>
-                                    <ul class="single-item">
-                                        <li class="title"><h5>Basic Cleaning</h5></li>
-                                        <li>$110</li>
-                                        <li>$150</li>
-                                        <li>$220</li>
-                                        <li>$290</li>
-                                    </ul>
-                                    <ul class="single-item">
-                                        <li class="title"><h5>Deep Cleaning</h5></li>
-                                        <li>$180</li>
-                                        <li>$230</li>
-                                        <li>$310</li>
-                                        <li>$370</li>
-                                    </ul>
-                                </div>
-                            </div>
+    <figure class="image-box">
+        <img src="assets/images/service/mosquito-fogging.jpg" alt="Mosquito Fogging Service">
+    </figure>
+
+    <h3>Professional Mosquito Fogging Services</h3>
+
+    <div class="text">
+        <p>Mosquito fogging is one of the most effective ways to control mosquito populations in residential areas, societies, parks, and commercial spaces. Pestech Solution provides advanced mosquito fogging treatment to quickly eliminate adult mosquitoes and reduce the spread of mosquito-borne diseases.</p>
+
+        <p>Our trained technicians use professional fogging machines that release a fine insecticide mist to cover large areas efficiently. This treatment helps control mosquitoes responsible for diseases such as dengue, malaria, and chikungunya.</p>
+
+        <p>We provide mosquito fogging services for residential colonies, housing societies, offices, warehouses, gardens, and outdoor spaces in Ghaziabad, Noida, Gurugram, and nearby areas.</p>
+    </div>
+</div>
+
+
+<div class="content-two">
+    <div class="row clearfix">
+
+        <div class="col-lg-6 col-md-6 col-sm-12 inner-column">
+            <div class="inner-box">
+
+                <div class="single-item">
+                    <div class="icon-box"><i class="flaticon-office-building"></i></div>
+                    <h4>Residential Societies</h4>
+                    <p>Our mosquito fogging service is ideal for housing societies, apartments, and gated communities to control mosquito breeding and protect residents.</p>
+                </div>
+
+                <div class="single-item">
+                    <div class="icon-box"><i class="flaticon-workplace"></i></div>
+                    <h4>Parks & Commercial Areas</h4>
+                    <p>We provide fogging treatment for parks, offices, warehouses, and outdoor commercial spaces to reduce mosquito infestation and maintain hygiene.</p>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="col-lg-6 col-md-6 col-sm-12 image-column">
+            <div class="image-box">
+                <figure class="image">
+                    <img src="assets/images/service/mosquito-fogging-service.jpg" alt="Mosquito Fogging Treatment">
+                </figure>
+
+                <div class="doc-content">
+                    <h6>Service Brochure</h6>
+                    <span>Mosquito Fogging Guide</span>
+                    <a href="mosquito-fogging.html">View Service</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="content-three">
+    <div class="inner-box">
+
+        <figure class="image-box">
+            <img src="assets/images/service/fogging-treatment.jpg" alt="Mosquito Fogging Control">
+        </figure>
+
+        <div class="text">
+
+            <div class="shape" style="background-image: url(assets/images/icons/star-6.png);"></div>
+
+            <h3>Our Mosquito Fogging Service Includes</h3>
+
+            <p>Our mosquito fogging treatment is designed to control adult mosquitoes and reduce mosquito populations in large areas.</p>
+
+            <ul class="list clearfix">
+                <li>Outdoor Mosquito Fogging Treatment</li>
+                <li>Society & Colony Fogging Services</li>
+                <li>Park & Garden Mosquito Control</li>
+                <li>Commercial Area Fogging</li>
+                <li>Long-Lasting Mosquito Prevention</li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="content-four">
+
+    <h3>Mosquito Fogging Service Pricing</h3>
+
+    <div class="cost-box clearfix">
+
+        <ul class="single-item">
+            <li class="title"><h5>Area Type</h5></li>
+            <li>Small Residential Area</li>
+            <li>Housing Society</li>
+            <li>Commercial Property</li>
+            <li>Large Outdoor Areas</li>
+        </ul>
+
+        <ul class="single-item">
+            <li class="title"><h5>Inspection</h5></li>
+            <li>Free Inspection</li>
+            <li>Free Inspection</li>
+            <li>Custom Inspection</li>
+            <li>Custom Inspection</li>
+        </ul>
+
+        <ul class="single-item">
+            <li class="title"><h5>Fogging Cost</h5></li>
+            <li>Contact for Quote</li>
+            <li>Contact for Quote</li>
+            <li>Contact for Quote</li>
+            <li>Custom Pricing</li>
+        </ul>
+
+    </div>
+</div>
                         </div>
                     </div>
                 </div>
