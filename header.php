@@ -56,7 +56,7 @@
 <h5>pestechsolutions1@gmail.com</h5>
                                 </li>
                                 <li class="btn-box">
-                                    <a href="index-3.html" class="theme-btn-four thm-btn">Request a Quote</a>
+                                    <a href="index.php" class="theme-btn-four thm-btn">Request a Quote</a>
                                 </li>
                             </ul>
                         </div>
@@ -103,9 +103,9 @@
                             </div>
                             <div class="menu-right-content pull-right clearfix">
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-3.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-3.html"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -140,9 +140,9 @@
                                 </div>
                             </div>
                             <ul class="social-links clearfix">
-                                <li><a href="index-3.html"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index-3.html"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
