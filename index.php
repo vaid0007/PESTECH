@@ -130,7 +130,7 @@
     <div class="banner-carousel owl-theme owl-carousel">
 
         <div class="slide-item">
-            <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
+            <div class="image-layer" style="background-image:url(assets/images/banner/banner-1a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
                     <h2>Professional <br />Pest Control <br />Services</h2>
@@ -143,7 +143,7 @@
         </div>
 
         <div class="slide-item">
-            <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
+            <div class="image-layer" style="background-image:url(assets/images/banner/banner-2a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
                     <h2>Safe & Effective <br />Pest Control <br />Solutions</h2>
@@ -156,7 +156,7 @@
         </div>
 
         <div class="slide-item">
-            <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
+            <div class="image-layer" style="background-image:url(assets/images/banner/banner-3a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
                     <h2>Keep Your Home <br />and Office <br />Pest Free</h2>
@@ -182,7 +182,7 @@
                 <div class="big-block">
                     <div class="inner-box">
                         <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                        <figure class="image-box"><img src="assets/images/resource/cleaner-1.png" alt=""></figure>
+                        <figure class="image-box"><img src="assets/images/resource/cleaner-1a.png" alt=""></figure>
 
                         <h4>Protect Your Home and <br />Office From Harmful Pests</h4>
 
@@ -385,7 +385,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/termite-treatment.jpg" alt="Termite Treatment Service">
+<img src="assets/images/service/service-12a.jpg" alt="Termite Treatment Service">
 </figure>
 </div>
 </div>
@@ -1094,7 +1094,7 @@
                 <div class="content-box" style="background-image: url(assets/images/resource/video-1.jpg);">
 
                     <div class="video-btn">
-                        <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A" class="lightbox-image">
+                        <a href="#" class="lightbox-image">
                             <i class="flaticon-play-button"></i>
                             <span class="border-animation border-1"></span>
                             <span class="border-animation border-2"></span>
@@ -1106,7 +1106,7 @@
 
                         <h6>Professional Pest Control Solutions for Homes & Offices</h6>
 
-                        <div class="share-option">
+                        <!-- <div class="share-option">
                             <h6><i class="flaticon-share"></i>Share</h6>
 
                             <ul class="list clearfix">
@@ -1116,7 +1116,7 @@
                                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
 
-                        </div>
+                        </div> -->
 
                     </div>
 
