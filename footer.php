@@ -4,7 +4,7 @@
                     <div class="row clearfix">
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo/logo.jpeg" alt=""></a></figure>
+                                <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo/footerlogo.jpeg" alt=""></a></figure>
                                 <div class="text">
                                     <p>Indignation and dislike men who are so beguiled and demoralized moment by desire.</p>
                                 </div>

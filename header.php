@@ -40,7 +40,7 @@
                 <div class="auto-container">
                     <div class="upper-inner clearfix">
                         <div class="logo-box pull-left">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo/logo.jpeg" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img src="assets/images/logo/logo.png" alt=""></a></figure>
                         </div>
                         <div class="right-column pull-right">
                             <ul class="info-list clearfix">
