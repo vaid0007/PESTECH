@@ -101,7 +101,7 @@
                         <h1>Contact</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Contact</li>
                     </ul>
                 </div>
@@ -206,29 +206,6 @@
     </div>
 </section>
         <!-- google-map-section end -->
-
-
-        <!-- subscribe-section -->
-        <section class="subscribe-section bg-color-1">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-lg-6 col-md-6 col-sm-12 text-column">
-                        <div class="text">
-                            <h3><i class="flaticon-email-1"></i>Subscribe Our Newsletter</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 form-column">
-                        <form action="https://st.ourhtmldemo.com/new/Sanito1/contact.html" method="post" class="subscribe-form">
-                            <div class="form-group">
-                                <input type="email" name="email" placeholder="Your email address ..." required="">
-                                <button type="submit" class="theme-btn-two">Subscribe Us</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- subscribe-section end -->
 
 
         <!-- main-footer -->

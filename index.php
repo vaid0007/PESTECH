@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from st.ourhtmldemo.com/new/Sanito1/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 08:17:29 GMT -->
+<!-- Mirrored from st.ourhtmldemo.com/new/Sanito1/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 08:17:29 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -104,10 +104,10 @@
             <div class="image-layer" style="background-image:url(assets/images/banner/banner-1a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h2>Professional <br />Pest Control <br />Services</h2>
+                    <h2>Professional Pest Control Services</h2>
                     <p>Protect your home and office from termites, cockroaches, rodents, ants, and mosquitoes with our safe and effective pest control solutions.</p>
                     <div class="btn-box">
-                        <a href="about.html" class="theme-btn-two thm-btn">About Company</a>
+                        <a href="about.php" class="theme-btn-two thm-btn">About Company</a>
                     </div>
                 </div>
             </div>
@@ -117,10 +117,10 @@
             <div class="image-layer" style="background-image:url(assets/images/banner/banner-2a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h2>Safe & Effective <br />Pest Control <br />Solutions</h2>
+                    <h2>Safe & Effective Pest Control Solutions</h2>
                     <p>Pestech Solutions provides reliable pest control treatments including termite control, cockroach treatment, mosquito fogging, and rodent control.</p>
                     <div class="btn-box">
-                        <a href="service.html" class="theme-btn-two thm-btn">Our Services</a>
+                        <a href="rodent-treatment.php" class="theme-btn-two thm-btn">Our Services</a>
                     </div>
                 </div>
             </div>
@@ -130,10 +130,10 @@
             <div class="image-layer" style="background-image:url(assets/images/banner/banner-3a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h2>Keep Your Home <br />and Office <br />Pest Free</h2>
+                    <h2>Keep Your Home and Office Pest Free</h2>
                     <p>Serving Ghaziabad, Noida, Gurugram and nearby areas with professional pest control services for homes, societies and commercial spaces.</p>
                     <div class="btn-box">
-                        <a href="contact.html" class="theme-btn-two thm-btn">Contact Us</a>
+                        <a href="contact.php" class="theme-btn-two thm-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -258,7 +258,7 @@
                         </div>
 
                         <div class="btn-box">
-                            <a href="about.html" class="theme-btn-three thm-btn">Learn More</a>
+                            <a href="about.php" class="theme-btn-three thm-btn">Learn More</a>
                         </div>
 
                     </div>
@@ -345,7 +345,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="termite-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="termite-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -387,7 +387,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="cockroach-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="cockroach-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -429,7 +429,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="rodent-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="rodent-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -471,7 +471,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="ant-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="ant-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -513,7 +513,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="mosquito-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="mosquito-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -555,7 +555,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="mosquito-fogging.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="mosquito-fogging.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -597,7 +597,7 @@
 </ul>
 
 <div class="btn-box">
-<a href="fly-treatment.html" class="theme-btn-three thm-btn">Read More</a>
+<a href="fly-treatment.php" class="theme-btn-three thm-btn">Read More</a>
 </div>
 
 </div>
@@ -646,7 +646,7 @@
                                                             <li>Healthy and Worry Free Environment</li>
                                                         </ul>
                                                         <div class="btn-box">
-                                                            <a href="service-details.html" class="theme-btn-three thm-btn">Read More</a>
+                                                            <a href="rodent-treatment.php" class="theme-btn-three thm-btn">Read More</a>
                                                         </div>
                                                         <div class="other-text">
                                                             <p>Don’t Wait to Clean Your Work Place, <a href="account.html">Make an Appointment</a></p>
@@ -683,7 +683,7 @@
                                                             <li>Healthy and Worry Free Environment</li>
                                                         </ul>
                                                         <div class="btn-box">
-                                                            <a href="service-details.html" class="theme-btn-three thm-btn">Read More</a>
+                                                            <a href="rodent-treatment.php" class="theme-btn-three thm-btn">Read More</a>
                                                         </div>
                                                         <div class="other-text">
                                                             <p>Don’t Wait to Clean Your Work Place, <a href="account.html">Make an Appointment</a></p>
@@ -720,7 +720,7 @@
                                                             <li>Healthy and Worry Free Environment</li>
                                                         </ul>
                                                         <div class="btn-box">
-                                                            <a href="service-details.html" class="theme-btn-three thm-btn">Read More</a>
+                                                            <a href="rodent-treatment.php" class="theme-btn-three thm-btn">Read More</a>
                                                         </div>
                                                         <div class="other-text">
                                                             <p>Don’t Wait to Clean Your Work Place, <a href="account.html">Make an Appointment</a></p>
@@ -757,7 +757,7 @@
                                                             <li>Healthy and Worry Free Environment</li>
                                                         </ul>
                                                         <div class="btn-box">
-                                                            <a href="service-details.html" class="theme-btn-three thm-btn">Read More</a>
+                                                            <a href="rodent-treatment.php" class="theme-btn-three thm-btn">Read More</a>
                                                         </div>
                                                         <div class="other-text">
                                                             <p>Don’t Wait to Clean Your Work Place, <a href="account.html">Make an Appointment</a></p>
@@ -858,7 +858,7 @@
 
                             <p>Contact our pest control experts to get professional solutions for termite, cockroach, mosquito, rodent, and ant infestations.</p>
 
-                            <a href="contact.html">Get Started</a>
+                            <a href="contact.php">Get Started</a>
 
                             <ul class="step-list clearfix"> 
 
@@ -917,7 +917,7 @@
                         </figure>
                         <div class="text">
                             <h4>Termite Treatment for Residential Property</h4>
-                            <a href="service-details.html"><i class="fal fa-long-arrow-right"></i></a>
+                            <a href="termite-treatment.php"><i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -929,7 +929,7 @@
                         </figure>
                         <div class="text">
                             <h4>Cockroach Control for Office Building</h4>
-                            <a href="service-details.html"><i class="fal fa-long-arrow-right"></i></a>
+                            <a href="cockroach-treatment.php"><i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -941,7 +941,7 @@
                         </figure>
                         <div class="text">
                             <h4>Mosquito Fogging for Residential Society</h4>
-                            <a href="service-details.html"><i class="fal fa-long-arrow-right"></i></a>
+                            <a href="rodent-treatment.php"><i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -950,7 +950,7 @@
         </div>
 
         <div class="other-text centred">
-            <p>Protect Your Home & Workplace From Pests, <a href="service.html">Explore All Services</a></p>
+            <p>Protect Your Home & Workplace From Pests, <a href="rodent-treatment.php">Explore All Services</a></p>
         </div>
 
     </div>
@@ -1116,7 +1116,7 @@
 
                     <div class="image-box">
                         <figure class="image">
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 <img src="assets/images/news/news-1.jpg" alt="Termite Treatment Tips for Homes">
                             </a>
                         </figure>
@@ -1129,17 +1129,17 @@
                     <div class="lower-content">
 
                         <div class="category">
-                            <a href="blog-details.html">Termite Control</a>
+                            <a href="blog.php">Termite Control</a>
                         </div>
 
                         <h4>
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 Signs of Termite Infestation and How to Protect Your Home
                             </a>
                         </h4>
 
                         <div class="link">
-                            <a href="blog-details.html">Read More</a>
+                            <a href="blog.php">Read More</a>
                         </div>
 
                     </div>
@@ -1153,7 +1153,7 @@
 
                     <div class="image-box">
                         <figure class="image">
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 <img src="assets/images/news/news-2.jpg" alt="Cockroach Pest Control Guide">
                             </a>
                         </figure>
@@ -1166,17 +1166,17 @@
                     <div class="lower-content">
 
                         <div class="category">
-                            <a href="blog-details.html">Cockroach Control</a>
+                            <a href="blog.php">Cockroach Control</a>
                         </div>
 
                         <h4>
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 Effective Ways to Get Rid of Cockroaches in Your Home
                             </a>
                         </h4>
 
                         <div class="link">
-                            <a href="blog-details.html">Read More</a>
+                            <a href="blog.php">Read More</a>
                         </div>
 
                     </div>
@@ -1190,7 +1190,7 @@
 
                     <div class="image-box">
                         <figure class="image">
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 <img src="assets/images/news/news-3.jpg" alt="Mosquito Prevention Tips">
                             </a>
                         </figure>
@@ -1203,17 +1203,17 @@
                     <div class="lower-content">
 
                         <div class="category">
-                            <a href="blog-details.html">Mosquito Control</a>
+                            <a href="blog.php">Mosquito Control</a>
                         </div>
 
                         <h4>
-                            <a href="blog-details.html">
+                            <a href="blog.php">
                                 Simple Tips to Prevent Mosquito Breeding Around Your Home
                             </a>
                         </h4>
 
                         <div class="link">
-                            <a href="blog-details.html">Read More</a>
+                            <a href="blog.php">Read More</a>
                         </div>
 
                     </div>
@@ -1507,48 +1507,12 @@
         </div>
 
         <div class="other-text centred">
-            <p>Providing reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, <a href="contact.html">Book Our Service</a></p>
+            <p>Providing reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, <a href="contact.php">Book Our Service</a></p>
         </div>
 
     </div>
 </section>
         <!-- clients-section end -->
-
-
-        <!-- subscribe-section -->
-        <section class="subscribe-section bg-color-1">
-    <div class="auto-container">
-
-        <div class="row clearfix">
-
-            <div class="col-lg-6 col-md-6 col-sm-12 text-column">
-                <div class="text">
-                    <h3>
-                        <i class="flaticon-email-1"></i>
-                        Get Pest Control Tips & Service Updates
-                    </h3>
-                    <p>Subscribe to receive helpful tips about termite prevention, cockroach control, mosquito treatment, and professional pest control services.</p>
-                </div>
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 form-column">
-
-                <form action="#" method="post" class="subscribe-form">
-
-                    <div class="form-group">
-                        <input type="email" name="email" placeholder="Enter your email address" required="">
-                        <button type="submit" class="theme-btn-two">Subscribe</button>
-                    </div>
-
-                </form>
-
-            </div>
-
-        </div>
-
-    </div>
-</section>
-        <!-- subscribe-section end -->
 
 
         <!-- main-footer -->
@@ -1581,5 +1545,5 @@
 
 </body><!-- End of .page_wrapper -->
 
-<!-- Mirrored from st.ourhtmldemo.com/new/Sanito1/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 08:18:26 GMT -->
+<!-- Mirrored from st.ourhtmldemo.com/new/Sanito1/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 08:18:26 GMT -->
 </html>

@@ -104,7 +104,7 @@
                         <h1>Blog Simple</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Blog</li>
                         <li>Blog Simple</li>
                     </ul>
@@ -137,11 +137,11 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="category-list clearfix">
-                                        <li><a href="blog-details.html">Home Cleaning<span>[5]</span></a></li>
-                                        <li><a href="blog-details.html">Office Cleaning<span>[8]</span></a></li>
-                                        <li><a href="blog-details.html">Promotions<span>[7]</span></a></li>
-                                        <li><a href="blog-details.html">Sanitizing & Disinfecting<span>[4]</span></a></li>
-                                        <li><a href="blog-details.html">Tips & Tricks<span>[9]</span></a></li>
+                                        <li><a href="blog.php">Home Cleaning<span>[5]</span></a></li>
+                                        <li><a href="blog.php">Office Cleaning<span>[8]</span></a></li>
+                                        <li><a href="blog.php">Promotions<span>[7]</span></a></li>
+                                        <li><a href="blog.php">Sanitizing & Disinfecting<span>[4]</span></a></li>
+                                        <li><a href="blog.php">Tips & Tricks<span>[9]</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -152,19 +152,19 @@
                                 <div class="post-inner">
                                     <div class="single-item-carousel owl-carousel owl-theme owl-dots-none">
                                         <div class="post">
-                                            <figure class="post-thumb"><a href="blog-details.html"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
-                                            <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                            <h5><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h5>
+                                            <figure class="post-thumb"><a href="blog.php"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
+                                            <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                            <h5><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h5>
                                         </div>
                                         <div class="post">
-                                            <figure class="post-thumb"><a href="blog-details.html"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
-                                            <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                            <h5><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h5>
+                                            <figure class="post-thumb"><a href="blog.php"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
+                                            <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                            <h5><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h5>
                                         </div>
                                         <div class="post">
-                                            <figure class="post-thumb"><a href="blog-details.html"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
-                                            <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                            <h5><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h5>
+                                            <figure class="post-thumb"><a href="blog.php"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
+                                            <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                            <h5><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -175,15 +175,15 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="tags-list clearfix">
-                                        <li><a href="blog-details.html">Appliance</a></li>
-                                        <li><a href="blog-details.html">Commercial</a></li>
-                                        <li><a href="blog-details.html">Covid19</a></li>
-                                        <li><a href="blog-details.html">Event</a></li>
-                                        <li><a href="blog-details.html">Hospital</a></li>
-                                        <li><a href="blog-details.html">Safety</a></li>
-                                        <li><a href="blog-details.html">School</a></li>
-                                        <li><a href="blog-details.html">Residential</a></li>
-                                        <li><a href="blog-details.html">Restaurant</a></li>
+                                        <li><a href="blog.php">Appliance</a></li>
+                                        <li><a href="blog.php">Commercial</a></li>
+                                        <li><a href="blog.php">Covid19</a></li>
+                                        <li><a href="blog.php">Event</a></li>
+                                        <li><a href="blog.php">Hospital</a></li>
+                                        <li><a href="blog.php">Safety</a></li>
+                                        <li><a href="blog.php">School</a></li>
+                                        <li><a href="blog.php">Residential</a></li>
+                                        <li><a href="blog.php">Restaurant</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -214,10 +214,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>27</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                                <h4><a href="blog-details.html">Your Need-To-Know Guide For Infection Control</a></h4>
+                                                <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                                <h4><a href="blog.php">Your Need-To-Know Guide For Infection Control</a></h4>
                                                 <p>Expound the actual teachings of the great explorer of the truth.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -227,10 +227,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>26</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Home Cleaning</a></div>
-                                                <h4><a href="blog-details.html">How a Weekly House Cleaning Service Can Improve</a></h4>
+                                                <div class="category"><a href="blog.php">Home Cleaning</a></div>
+                                                <h4><a href="blog.php">How a Weekly House Cleaning Service Can Improve</a></h4>
                                                 <p>To take a trivial example which of us ever undertakes laborious physical.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -240,10 +240,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>25</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Promotions</a></div>
-                                                <h4><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h4>
+                                                <div class="category"><a href="blog.php">Promotions</a></div>
+                                                <h4><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h4>
                                                 <p>Nor again there anyone who loves pursue or desires to obtain pain of itself.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -253,10 +253,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>24</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Promotions</a></div>
-                                                <h4><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h4>
+                                                <div class="category"><a href="blog.php">Promotions</a></div>
+                                                <h4><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h4>
                                                 <p>There anyone who loves  pursues desires to obtain pain of itself.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -266,10 +266,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>23</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                                <h4><a href="blog-details.html">Your Need To Know Guide For Infection Control</a></h4>
+                                                <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                                <h4><a href="blog.php">Your Need To Know Guide For Infection Control</a></h4>
                                                 <p>To take a trivial example which of us ever undertakes laborious physical.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -279,10 +279,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>22</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Home Cleaning</a></div>
-                                                <h4><a href="blog-details.html">How a Weekly House Cleaning Service Can Improve</a></h4>
+                                                <div class="category"><a href="blog.php">Home Cleaning</a></div>
+                                                <h4><a href="blog.php">How a Weekly House Cleaning Service Can Improve</a></h4>
                                                 <p>Expound the actual teachings of the great explorer of the truth.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -292,10 +292,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>21</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Home Cleaning</a></div>
-                                                <h4><a href="blog-details.html">How a Weekly House Cleaning Service Can Improve</a></h4>
+                                                <div class="category"><a href="blog.php">Home Cleaning</a></div>
+                                                <h4><a href="blog.php">How a Weekly House Cleaning Service Can Improve</a></h4>
                                                 <p>There anyone who loves  pursues desires to obtain pain of itself.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -305,10 +305,10 @@
                                         <div class="inner-box">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>20</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Promotions</a></div>
-                                                <h4><a href="blog-details.html">How to Maintain Your Flooring in High-traffic Areas</a></h4>
+                                                <div class="category"><a href="blog.php">Promotions</a></div>
+                                                <h4><a href="blog.php">How to Maintain Your Flooring in High-traffic Areas</a></h4>
                                                 <p>Nor again there anyone who loves pursue or desires to obtain pain of itself.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -318,10 +318,10 @@
                                         <div class="inner-box mr-0">
                                             <div class="lower-content">
                                                 <div class="post-date"><h6><span>19</span> Nov, 2020</h6></div>
-                                                <div class="category"><a href="blog-details.html">Office Cleaning</a></div>
-                                                <h4><a href="blog-details.html">Your Need-To-Know Guide For Infection Control</a></h4>
+                                                <div class="category"><a href="blog.php">Office Cleaning</a></div>
+                                                <h4><a href="blog.php">Your Need-To-Know Guide For Infection Control</a></h4>
                                                 <p>Expound the actual teachings of the great explorer of the truth.</p>
-                                                <div class="link"><a href="blog-details.html">Read More</a></div>
+                                                <div class="link"><a href="blog.php">Read More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -333,29 +333,6 @@
             </div>
         </section>
         <!-- sidebar-page-container end -->
-
-
-        <!-- subscribe-section -->
-        <section class="subscribe-section bg-color-1">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-lg-6 col-md-6 col-sm-12 text-column">
-                        <div class="text">
-                            <h3><i class="flaticon-email-1"></i>Subscribe Our Newsletter</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 form-column">
-                        <form action="https://st.ourhtmldemo.com/new/Sanito1/contact.html" method="post" class="subscribe-form">
-                            <div class="form-group">
-                                <input type="email" name="email" placeholder="Your email address ..." required="">
-                                <button type="submit" class="theme-btn-two">Subscribe Us</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- subscribe-section end -->
 
 
         <!-- main-footer -->

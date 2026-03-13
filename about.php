@@ -104,7 +104,7 @@
                         <h1>Our Company</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>About</li>
                         <li>Company</li>
                     </ul>
@@ -138,7 +138,7 @@
                             <h2>1500+</h2>
                             <h5>Pest Control <br />Projects Completed</h5>
                             <div class="link">
-                                <a href="project.html">
+                                <a href="#">
                                     <i class="fal fa-angle-right"></i>Our Projects
                                 </a>
                             </div>
@@ -149,7 +149,7 @@
                             <h2>100%</h2>
                             <h5>Customer <br />Satisfaction</h5>
                             <div class="link">
-                                <a href="reviews.html">
+                                <a href="#">
                                     <i class="fal fa-angle-right"></i>Client Reviews
                                 </a>
                             </div>
@@ -264,7 +264,7 @@
                         </div>
 
                         <div class="btn-box">
-                            <a href="contact.html" class="theme-btn-three thm-btn">Book Pest Control Service</a>
+                            <a href="contact.php" class="theme-btn-three thm-btn">Book Pest Control Service</a>
                         </div>
 
                     </div>
@@ -383,7 +383,7 @@
                 <div class="sec-title text-left">
                     <h6>Meet Our Team</h6>
                     <h2>Team Behind Our Success</h2>
-                    <div class="btn-box"><a href="index-2.html" class="theme-btn-three thm-btn">All Members</a></div>
+                    <div class="btn-box"><a href="index.php" class="theme-btn-three thm-btn">All Members</a></div>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
@@ -392,10 +392,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-.png" alt="">
-                                    <a href="index-2.html"><i class="fas fa-link"></i></a>
+                                    <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">John Doe</a></h4>
+                                    <h4><a href="index.php">John Doe</a></h4>
                                     <span class="designation">Manager</span>
                                 </div>
                             </div>
@@ -407,10 +407,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-.png" alt="">
-                                    <a href="index-2.html"><i class="fas fa-link"></i></a>
+                                    <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">John Doe</a></h4>
+                                    <h4><a href="index.php">John Doe</a></h4>
                                     <span class="designation">Ass. Manager</span>
                                 </div>
                             </div>
@@ -422,10 +422,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-.png" alt="">
-                                    <a href="index-2.html"><i class="fas fa-link"></i></a>
+                                    <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">John Doe</a></h4>
+                                    <h4><a href="index.php">John Doe</a></h4>
                                     <span class="designation">Team Head</span>
                                 </div>
                             </div>
@@ -437,10 +437,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-.png" alt="">
-                                    <a href="index-2.html"><i class="fas fa-link"></i></a>
+                                    <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-2.html">John Doe</a></h4>
+                                    <h4><a href="index.php">John Doe</a></h4>
                                     <span class="designation">Senior Cleaner</span>
                                 </div>
                             </div>
@@ -459,7 +459,7 @@
                         <div class="text">
                             <div class="icon-box"><i class="flaticon-blog"></i></div>
                             <h4>Make Your Home Clean & Shine</h4>
-                            <a href="about.html">tips and Tricks<i class="fal fa-long-arrow-right"></i></a>
+                            <a href="about.php">tips and Tricks<i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 text-column">
@@ -625,38 +625,12 @@
         </div>
 
         <div class="other-text centred">
-            <p>Providing reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, <a href="contact.html">Book Our Service</a></p>
+            <p>Providing reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, <a href="contact.php">Book Our Service</a></p>
         </div>
 
     </div>
         </section>
         <!-- clients-section end -->
-         
-
-        
-
-
-        <!-- subscribe-section -->
-        <section class="subscribe-section bg-color-1">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-lg-6 col-md-6 col-sm-12 text-column">
-                        <div class="text">
-                            <h3><i class="flaticon-email-1"></i>Subscribe Our Newsletter</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 form-column">
-                        <form action="https://st.ourhtmldemo.com/new/Sanito1/contact.html" method="post" class="subscribe-form">
-                            <div class="form-group">
-                                <input type="email" name="email" placeholder="Your email address ..." required="">
-                                <button type="submit" class="theme-btn-two">Subscribe Us</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- subscribe-section end -->
 
 
         <!-- main-footer -->

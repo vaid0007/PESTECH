@@ -101,7 +101,7 @@
                         <h1>Ant Treatment</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Services</li>
                         <li>Service Details</li>
                     </ul>
@@ -119,13 +119,13 @@
                         <div class="service-sidebar">
                             <div class="sidebar-widget category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="termite-treatment.html">Termite Treatment</a></li>
-<li><a href="cockroach-treatment.html">Cockroach Treatment</a></li>
-<li><a href="rodent-treatment.html">Rodent Treatment</a></li>
-<li><a href="ant-treatment.html">Ant Treatment</a></li>
-<li><a href="mosquito-treatment.html">Mosquito Treatment</a></li>
-<li><a href="mosquito-fogging.html">Mosquito Fogging for Societies</a></li>
-<li><a href="fly-treatment.html">Fly Treatment</a></li>
+                                    <li><a href="termite-treatment.php">Termite Treatment</a></li>
+<li><a href="cockroach-treatment.php">Cockroach Treatment</a></li>
+<li><a href="rodent-treatment.php">Rodent Treatment</a></li>
+<li><a href="ant-treatment.php">Ant Treatment</a></li>
+<li><a href="mosquito-treatment.php">Mosquito Treatment</a></li>
+<li><a href="mosquito-fogging.php">Mosquito Fogging for Societies</a></li>
+<li><a href="fly-treatment.php">Fly Treatment</a></li>
                                 </ul>
                             </div>
                             <div class="sidebar-widget banner-widget">
@@ -301,29 +301,6 @@
             </div>
         </section>
         <!-- service-details end -->
-
-
-        <!-- subscribe-section -->
-        <section class="subscribe-section bg-color-1">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-lg-6 col-md-6 col-sm-12 text-column">
-                        <div class="text">
-                            <h3><i class="flaticon-email-1"></i>Subscribe Our Newsletter</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 form-column">
-                        <form action="https://st.ourhtmldemo.com/new/Sanito1/contact.html" method="post" class="subscribe-form">
-                            <div class="form-group">
-                                <input type="email" name="email" placeholder="Your email address ..." required="">
-                                <button type="submit" class="theme-btn-two">Subscribe Us</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- subscribe-section end -->
 
 
         <!-- main-footer -->

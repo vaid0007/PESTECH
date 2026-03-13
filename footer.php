@@ -1,10 +1,44 @@
+        <!-- subscribe-section -->
+        <section class="subscribe-section bg-color-1">
+    <div class="auto-container">
+
+        <div class="row clearfix">
+
+            <div class="col-lg-6 col-md-6 col-sm-12 text-column">
+                <div class="text">
+                    <h3>
+                        <i class="flaticon-email-1"></i>
+                        Get Pest Control Tips & Service Updates
+                    </h3>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-12 form-column">
+
+                <form action="#" method="post" class="subscribe-form">
+
+                    <div class="form-group">
+                        <input type="email" name="email" placeholder="Enter your email address" required="">
+                        <button type="submit" class="theme-btn-two">Subscribe</button>
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+        <!-- subscribe-section end -->
+
 <footer class="main-footer bg-color-2">
             <div class="auto-container">
                 <div class="footer-top">
                     <div class="row clearfix">
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo/footerlogo.jpeg" alt=""></a></figure>
+                                <figure class="footer-logo"><a href="index.php"><img src="assets/images/logo/footerlogo.jpeg" alt=""></a></figure>
                                 <div class="text">
                                     <p>Indignation and dislike men who are so beguiled and demoralized moment by desire.</p>
                                 </div>
@@ -38,13 +72,13 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="index.html">Rodent Treatment</a></li>
-                                        <li><a href="index.html">Ant Treatment</a></li>
-                                        <li><a href="index.html">Mosquito Treatment</a></li>
-                                        <li><a href="index.html">Mosquito Fogging treatment for Societies</a></li>
-                                        <li><a href="index.html">Cockroach Treatment</a></li>
-                                        <li><a href="index.html">Fly Treatment</a></li>
-                                        <li><a href="index.html">Termite Treatment</a></li>
+                                        <li><a href="index.php">Rodent Treatment</a></li>
+                                        <li><a href="index.php">Ant Treatment</a></li>
+                                        <li><a href="index.php">Mosquito Treatment</a></li>
+                                        <li><a href="index.php">Mosquito Fogging treatment for Societies</a></li>
+                                        <li><a href="index.php">Cockroach Treatment</a></li>
+                                        <li><a href="index.php">Fly Treatment</a></li>
+                                        <li><a href="index.php">Termite Treatment</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -62,9 +96,9 @@
                                     <li>Address : Chamber No. 1, Vindhyanchal Tower, Kaushambi, Ghaziabad, Uttar Pardesh</li>
                                 </ul>
                                 <ul class="footer-social clearfix">
-                                    <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index.php"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
                             </div>
                         </div>
