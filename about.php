@@ -359,14 +359,21 @@
                 <div class="two-column-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
                     <div class="award-block-one">
                         <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/award-4.png" alt=""></figure>
+                            <figure class="award-image"><img src="assets/images/resource/achivemnet1.jpeg" alt=""></figure>
                             <h4>ISO Accredited - 2005</h4>
                             <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
                         </div>
                     </div>
                     <div class="award-block-one">
                         <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/award-5.png" alt=""></figure>
+                            <figure class="award-image"><img src="assets/images/resource/achivemnet2.jpeg" alt=""></figure>
+                            <h4>Best Choice Award - 2008</h4>
+                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
+                        </div>
+                    </div>
+                    <div class="award-block-one">
+                        <div class="inner-box">
+                            <figure class="award-image"><img src="assets/images/resource/achivemnet3.jpeg" alt=""></figure>
                             <h4>Best Choice Award - 2008</h4>
                             <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
                         </div>
