@@ -57,9 +57,9 @@
                                 <ul class="info clearfix"> 
                                     <li>
                                         <a href="tel:9654450123">+91 9654450123</a>
-                                        <a href="mailto:* pestechsolutions1@gmail.com">* pestechsolutions1@gmail.com</a>
+                                        <a href="mailto:* pestechsolutions1@gmail.com"> pestechsolutions1@gmail.com</a>
                                     </li>
-                                    <li>Business Address-Chamber no-01,Vindhyanchal Tower,Kaushambi,Ghaziabad,Uttar Pardesh</li>
+                                    <li>Address : Chamber No. 1, Vindhyanchal Tower, Kaushambi, Ghaziabad, Uttar Pardesh</li>
                                 </ul>
                                 <ul class="footer-social clearfix">
                                     <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>

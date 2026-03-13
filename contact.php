@@ -120,7 +120,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-location"></i></div>
                                     <h6>Location</h6>
-                                    <p>Chamber no-01,Vindhyanchal Tower,Kaushambi,Ghaziabad,Uttar Pardesh</p>
+                                    <p>Chamber No. 1, Vindhyanchal Tower, Kaushambi, Ghaziabad, Uttar Pardesh</p>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-location"></i></div>
                                     <h6>Off. Hours</h6>
-                                    <p>Mon - Satday : 9.00 am to 7.00 pm Sunday Closed</p>
+                                    <p>Mon - Sat : 9.00 am - 7.00 pm Sunday Closed</p>
                                 </div>
                             </div>
                         </div>

@@ -46,8 +46,8 @@
                             <ul class="info-list clearfix">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <h5>Chamber no-01,Vindhyanchal Tower,</h5>
-                                    <h5>Kaushambi,Ghaziabad,Uttar Pardesh</h5>
+                                    <h5>Chamber No. 1, Vindhyanchal Tower, </h5>
+                                    <h5>Kaushambi, Ghaziabad, Uttar Pardesh</h5>
                                 </li>
                                 <li>
                                     <i class="flaticon-phone-call"></i>
