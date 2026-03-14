@@ -357,27 +357,80 @@
                     <h2>We're Proud to Share Some of <br />Our Achivements</h2>
                 </div>
                 <div class="two-column-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet1.jpeg" alt=""></figure>
-                            <h4>ISO Accredited - 2005</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet2.jpeg" alt=""></figure>
-                            <h4>Best Choice Award - 2008</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet3.jpeg" alt=""></figure>
-                            <h4>Best Choice Award - 2008</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
+                    <div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet1.jpg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">FIPP Membership Certificate</h4>
+            <p style="color:#666; margin:0;">
+                Pestech Solutions Pvt. Ltd. is a certified member of the Forum of Indian Pest Professionals (FIPP), recognizing our commitment to professional pest management standards and ethical practices.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet2.jpeg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">Pest Mentor India Awards 2025</h4>
+            <p style="color:#666; margin:0;">
+                 Pestech Solutions Pvt. Ltd., Ghaziabad, received recognition at the Pest Mentor India Awards 2025 for its contribution and support in the pest management industry.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet3.jpeg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">Pest Mentor Signature Award – Youth Icon 2025</h4>
+            <p style="color:#666; margin:0;">
+                Mr. Rahul Goswami of Pestech Solutions Pvt. Ltd. received the Pest Mentor Signature Award – Youth Icon (North India) at the Pest Mentor India Awards 2025 for remarkable leadership and contribution to the pest management industry.
+            </p>
+        </div>
+
+    </div>
+
+</div>
                 </div>
             </div>
         </section>
