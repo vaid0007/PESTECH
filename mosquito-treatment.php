@@ -173,7 +173,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/mosquito-treatment.jpg" alt="Mosquito Treatment Service in Ghaziabad">
+        <img src="assets/images/service/mosquito_treatment_1.png" alt="Mosquito Treatment Service in Ghaziabad">
     </figure>
 
     <h3>Professional Mosquito Treatment Services</h3>

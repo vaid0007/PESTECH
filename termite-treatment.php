@@ -172,7 +172,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/termite-treatment.jpg" alt="Termite Treatment Pest Control Service">
+        <img src="assets/images/service/termite_treatment_1.png" alt="Termite Treatment Pest Control Service">
     </figure>
 
     <h3>Professional Termite Treatment Services</h3>

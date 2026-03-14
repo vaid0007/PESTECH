@@ -172,7 +172,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/fly-treatment.jpg" alt="Fly Pest Control Treatment Service">
+        <img src="assets/images/service/fly_treatment_1.png" alt="Fly Pest Control Treatment Service">
     </figure>
 
     <h3>Professional Fly Treatment Services</h3>

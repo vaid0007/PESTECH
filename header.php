@@ -81,7 +81,7 @@
                                         <ul class="navigation clearfix">
                                             <li class="current"><a href="index.php">Home</a>
                                             </li>
-                                            <li class="dropdown"><a href="about.php">About</a>
+                                            <li class=""><a href="about.php">About</a>
                                             </li> 
                                             <li class="dropdown"><a href="#">Services</a>
                                                 <ul>
@@ -94,7 +94,8 @@
 <li><a href="termite-treatment.php">Termite Treatment</a></li>
                                                 </ul>
                                             </li>  
-                                            <li class="dropdown"><a href="blog.php">Blog</a>
+                                            <li class="gallery.php"><a href="gallery.php">Gallery</a>
+                                            <!-- <li class=""><a href="blog.php">Blog</a> -->
                                             </li>  
                                             <li><a href="contact.php">Contact</a></li>   
                                         </ul>
@@ -123,22 +124,6 @@
                             </nav>
                         </div>
                         <div class="menu-right-content pull-right clearfix">
-                            <div class="cart-box"><a href="shop.html"><i class="flaticon-shopping-bag"></i><span>0</span></a></div>
-                            <div class="search-box-outer">
-                                <div class="dropdown">
-                                    <button class="search-box-btn" type="button" id="dropdownMenu4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="flaticon-loupe"></i></button>
-                                    <div class="dropdown-menu search-panel" aria-labelledby="dropdownMenu4">
-                                        <div class="form-container">
-                                            <form method="post" action="https://st.ourhtmldemo.com/new/Sanito1/blog.html">
-                                                <div class="form-group">
-                                                    <input type="search" name="search-field" value="" placeholder="Search...." required="">
-                                                    <button type="submit" class="search-btn"><span class="fas fa-search"></span></button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                             <ul class="social-links clearfix">
                                 <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
@@ -157,14 +142,14 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/footer-logo-3.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                        <li>Chamber no-01,Vindhyanchal Tower,Kaushambi,Ghaziabad,Uttar Pardesh</li>
+                        <li><a href="tel:9654450123">+91 9654450123</a></li>
+                        <li><a href="mailto:pestechsolutions1@gmail.com">pestechsolutions1@gmail.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">

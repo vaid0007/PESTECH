@@ -171,7 +171,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/cockroach-treatment.jpg" alt="Cockroach Pest Control Service">
+        <img src="assets/images/service/cockroach_treatment_1.png" alt="Cockroach Pest Control Service">
     </figure>
 
     <h3>Professional Cockroach Treatment Services</h3>

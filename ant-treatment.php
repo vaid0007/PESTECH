@@ -173,7 +173,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/ant-treatment.jpg" alt="Ant Pest Control Treatment Service">
+        <img src="assets/images/service/ant_treatment_1.png" alt="Ant Pest Control Treatment Service">
     </figure>
 
     <h3>Professional Ant Treatment Services</h3>

@@ -173,7 +173,7 @@
                             <div class="content-one">
 
     <figure class="image-box">
-        <img src="assets/images/service/rodent-treatment.jpg" alt="Rodent Control Service in Ghaziabad">
+        <img src="assets/images/service/rodent_treatment_1.jpg" alt="Rodent Control Service in Ghaziabad">
     </figure>
 
     <h3>Professional Rodent Control & Treatment Services</h3>

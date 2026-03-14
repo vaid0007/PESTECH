@@ -123,7 +123,7 @@
 
                 <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                     <div class="sec-title text-left">
-                        <h6>Who We Are</h6>
+                        <h6>About Us</h6>
                         <h2>Trusted Pest Control Experts for Homes & Businesses</h2>
 
                         <p>Pestech Solution is a professional pest control service provider offering safe and effective treatments for termites, cockroaches, rodents, ants, flies, and mosquitoes. Our experienced team uses advanced pest management techniques to protect homes, offices, and commercial spaces from harmful pest infestations.</p>

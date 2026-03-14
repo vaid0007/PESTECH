@@ -172,7 +172,7 @@
                         <div class="service-details-content">
                             <div class="content-one">
     <figure class="image-box">
-        <img src="assets/images/service/mosquito-fogging.jpg" alt="Mosquito Fogging Service">
+        <img src="assets/images/service/mosquito_fogging_1.png" alt="Mosquito Fogging Service">
     </figure>
 
     <h3>Professional Mosquito Fogging Services</h3>
