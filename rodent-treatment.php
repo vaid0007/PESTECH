@@ -93,7 +93,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2.jpg);">
+        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2c.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -235,7 +235,7 @@
     <div class="inner-box">
 
         <figure class="image-box">
-            <img src="assets/images/service/rodent-treatment-service.jpg" alt="Rodent Control Service in Ghaziabad">
+            <img src="assets/images/service/service3.jpg" alt="Rodent Control Service in Ghaziabad">
         </figure>
 
         <div class="text">

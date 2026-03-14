@@ -94,7 +94,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2.jpg);">
+        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2d.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -236,7 +236,7 @@
     <div class="inner-box">
 
         <figure class="image-box">
-            <img src="assets/images/service/ant-control-treatment.jpg" alt="Ant Control Treatment">
+            <img src="assets/images/service/service4.jpg" alt="Ant Control Treatment">
         </figure>
 
         <div class="text">

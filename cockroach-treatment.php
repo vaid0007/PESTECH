@@ -92,7 +92,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2.jpg);">
+        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2b.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -234,7 +234,7 @@
     <div class="inner-box">
 
         <figure class="image-box">
-            <img src="assets/images/service/cockroach-pest-control.jpg" alt="Cockroach Pest Control">
+            <img src="assets/images/service/service2.jpg" alt="Cockroach Pest Control">
         </figure>
 
         <div class="text">

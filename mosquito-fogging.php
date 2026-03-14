@@ -93,7 +93,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2.jpg);">
+        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2f.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -231,7 +231,7 @@
     <div class="inner-box">
 
         <figure class="image-box">
-            <img src="assets/images/service/fogging-treatment.jpg" alt="Mosquito Fogging Control">
+            <img src="assets/images/service/service6.jpg" alt="Mosquito Fogging Control">
         </figure>
 
         <div class="text">

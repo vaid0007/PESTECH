@@ -93,7 +93,7 @@
 
 
         <!-- Page Title -->
-        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2.jpg);">
+        <section class="page-title style-two centred" style="background-image: url(assets/images/background/page-title-2a.jpg);">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
@@ -233,7 +233,7 @@
     <div class="inner-box">
 
         <figure class="image-box">
-            <img src="assets/images/service/anti-termite-treatment.jpg" alt="Anti Termite Treatment Service">
+            <img src="assets/images/service/service1.jpg" alt="Anti Termite Treatment Service">
         </figure>
 
         <div class="text">
