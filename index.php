@@ -104,7 +104,7 @@
             <div class="image-layer" style="background-image:url(assets/images/banner/banner-1a.jpg)"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h2>Professional Pest Control Services</h2>
+                    <h1>Professional Pest Control Services</h1>
                     <p>Protect your home and office from termites, cockroaches, rodents, ants, and mosquitoes with our safe and effective pest control solutions.</p>
                     <div class="btn-box">
                         <a href="about.php" class="theme-btn-two thm-btn">About Company</a>
