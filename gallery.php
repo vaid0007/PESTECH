@@ -120,82 +120,24 @@
         <div class="row clearfix">
 
             <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-1.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-1.jpg" 
-                        alt="Termite Treatment Service"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
+           <?php
+for ($i = 1; $i <= 12; $i++) {
+?>
+    <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
+        <div style="overflow:hidden; border-radius:8px; width:100%; aspect-ratio:1/1;">
+            <a href="assets/images/gallery/<?php echo $i; ?>.jpeg" data-fancybox="gallery">
+                <img src="assets/images/gallery/<?php echo $i; ?>.jpeg" 
+                alt="Gallery Image <?php echo $i; ?>"
+                style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:0.4s;"
+                onmouseover="this.style.transform='scale(1.08)'"
+                onmouseout="this.style.transform='scale(1)'">
+            </a>
+        </div>
+    </div>
+<?php
+}
+?>
 
-            <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-2.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-2.jpg"
-                        alt="Cockroach Pest Control Service"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
-
-            <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-3.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-3.jpg"
-                        alt="Rodent Control Treatment"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
-
-            <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-4.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-4.jpg"
-                        alt="Mosquito Control Service"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
-
-            <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-5.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-5.jpg"
-                        alt="Bed Bug Treatment Service"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
-
-            <!-- Gallery Item -->
-            <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:30px;">
-                <div style="overflow:hidden; border-radius:8px;">
-                    <a href="assets/images/gallery/gallery-6.jpg" data-fancybox="gallery">
-                        <img src="assets/images/gallery/gallery-6.jpg"
-                        alt="Ant Pest Control Treatment"
-                        style="width:100%; border-radius:8px; transition:0.4s;"
-                        onmouseover="this.style.transform='scale(1.08)'"
-                        onmouseout="this.style.transform='scale(1)'">
-                    </a>
-                </div>
-            </div>
 
         </div>
     </div>

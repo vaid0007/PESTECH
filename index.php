@@ -1065,7 +1065,7 @@
                 <div class="content-box" style="background-image: url(assets/images/resource/video-1.jpg);">
 
                     <div class="video-btn">
-                        <a href="#" class="lightbox-image">
+                        <a href="assets/images/gallery/video1.mp4" class="lightbox-image">
                             <i class="flaticon-play-button"></i>
                             <span class="border-animation border-1"></span>
                             <span class="border-animation border-2"></span>
@@ -1482,27 +1482,82 @@
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-1.png" alt="Trusted Pest Control Service Partner">
+                    <img src="assets/images/clients/company1.png" alt="Trusted Pest Control Service Partner">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-2.png" alt="Residential Pest Control Client">
+                    <img src="assets/images/clients/company2.png" alt="Residential Pest Control Client">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-3.png" alt="Commercial Pest Control Client">
+                    <img src="assets/images/clients/company3.png" alt="Commercial Pest Control Client">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-4.png" alt="Mosquito Fogging Service Client">
+                    <img src="assets/images/clients/company4.png" alt="Mosquito Fogging Service Client">
                 </a>
             </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company5.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company6.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            
+
+        </div>
+         <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company7.png" alt="Trusted Pest Control Service Partner">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company8.png" alt="Residential Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company9.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company10.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company11.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company12.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            
 
         </div>
 
