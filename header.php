@@ -121,10 +121,8 @@
                             </div>
                             <div class="menu-right-content pull-right clearfix">
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
-                                </ul>
+                                    <li><a href="https://www.facebook.com/pestechsolutions?rdid=6lgFjgz7IH6i5pGH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DcWgcdGvr%2F#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.instagram.com/pestechsolutions1?igsh=MWtydzRxZjVuejE3YQ%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>                                </ul>
                             </div>
                         </div>
                     </div>
@@ -142,9 +140,8 @@
                         </div>
                         <div class="menu-right-content pull-right clearfix">
                             <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://www.facebook.com/pestechsolutions?rdid=6lgFjgz7IH6i5pGH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DcWgcdGvr%2F#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/pestechsolutions1?igsh=MWtydzRxZjVuejE3YQ%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
