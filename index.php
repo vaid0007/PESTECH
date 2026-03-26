@@ -296,7 +296,7 @@
 
         <!-- service-section -->
         <section class="service-section">
-            <div class="image-layer" style="background-image: url(assets/images/background/service-1.jpg);"></div>
+            <div class="image-layer" style="background-image: url(assets/images/background/service-1a.jpg);"></div>
             <div class="auto-container">
                 <div class="sec-title text-center light">
                     <h6>Our Services</h6>
@@ -398,7 +398,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/cockroach-treatment.jpg" alt="Cockroach Pest Control">
+<img src="assets/images/service/service-13a.jpg" alt="Cockroach Pest Control">
 </figure>
 </div>
 </div>
@@ -440,7 +440,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/rodent-treatment.jpg" alt="Rodent Control Service">
+<img src="assets/images/service/service-14a.jpg" alt="Rodent Control Service">
 </figure>
 </div>
 </div>
@@ -482,7 +482,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/ant-treatment.jpg" alt="Ant Pest Control">
+<img src="assets/images/service/service-15a.jpg" alt="Ant Pest Control">
 </figure>
 </div>
 </div>
@@ -524,7 +524,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/mosquito-treatment.jpg" alt="Mosquito Pest Control">
+<img src="assets/images/service/service-16a.jpg" alt="Mosquito Pest Control">
 </figure>
 </div>
 </div>
@@ -566,7 +566,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/mosquito-fogging.jpg" alt="Mosquito Fogging Service">
+<img src="assets/images/service/service-17a.jpg" alt="Mosquito Fogging Service">
 </figure>
 </div>
 </div>
@@ -608,7 +608,7 @@
 <div class="image_block_2">
 <div class="image-box">
 <figure class="image">
-<img src="assets/images/service/fly-treatment.jpg" alt="Fly Pest Control Service">
+<img src="assets/images/service/service-18a.jpg" alt="Fly Pest Control Service">
 </figure>
 </div>
 </div>
