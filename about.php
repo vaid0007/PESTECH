@@ -124,9 +124,17 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                     <div class="sec-title text-left">
                         <h6>About Us</h6>
-                        <h2>Trusted Pest Control Experts for Homes & Businesses</h2>
+                        <h2>
+                            Trusted <strong>Pest Control Experts in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> 
+                            for Homes & Businesses
+                        </h2>
 
-                        <p>Pestech Solution is a professional pest control service provider offering safe and effective treatments for termites, cockroaches, rodents, ants, flies, and mosquitoes. Our experienced team uses advanced pest management techniques to protect homes, offices, and commercial spaces from harmful pest infestations.</p>
+                        <p>
+                            <strong>Pestech Solution</strong> is a professional 
+                            <strong>pest control service provider in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> 
+                            offering safe and effective treatments for termites, cockroaches, rodents, ants, flies, and mosquitoes. 
+                            Our experienced team uses advanced pest management techniques to protect homes, offices, and commercial spaces from harmful pest infestations.
+                        </p>
                     </div>
                 </div>
 
@@ -166,7 +174,9 @@
 
             <div class="single-column">
                 <figure class="image-box">
-                    <img src="assets/images/resource/feature-1.jpg" alt="Professional Pest Control Service">
+                    <img src="assets/images/resource/feature-1.jpg" 
+                         alt="Pest Control Services in Ghaziabad, Noida, Gurugram and all over Delhi NCR" 
+                         loading="lazy">
                 </figure>
             </div>
 
@@ -177,7 +187,11 @@
                     <div class="icon-box"><i class="flaticon-quote"></i></div>
 
                     <div class="text">
-                        <p>Pestech Solution provides reliable pest control services across Ghaziabad, Noida, Gurugram and nearby areas, helping families and businesses stay safe from termites, cockroaches, rodents, and mosquitoes.</p>
+                        <p>
+                            <strong>Pestech Solution</strong> provides reliable 
+                            <strong>pest control services in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong>, 
+                            helping families and businesses stay safe from termites, cockroaches, rodents, and mosquitoes.
+                        </p>
                     </div>
 
                     <div class="author-info">
@@ -196,7 +210,10 @@
 
                     <h3>Our Commitment</h3>
 
-                    <p>We are committed to providing safe, reliable, and affordable pest control solutions for residential and commercial properties.</p>
+                    <p>
+                        We are committed to providing <strong>safe, reliable, and affordable pest control solutions in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> 
+                        for residential and commercial properties.
+                    </p>
 
                     <ul class="list clearfix">
                         <li>Safe Pest Control Methods</li>
@@ -226,11 +243,18 @@
 
                         <div class="sec-title text-left">
                             <h6>Our Vision</h6>
-                            <h2>Creating Pest-Free <br />Homes & Workplaces</h2>
+                            <h2>
+                                Creating <strong>Pest-Free Homes & Workplaces in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong>
+                            </h2>
                         </div>
 
                         <div class="text">
-                            <p>Our vision at Pestech Solution is to become a trusted pest control service provider delivering safe, effective, and eco-friendly pest management solutions. We aim to protect homes, offices, and commercial spaces from termites, cockroaches, rodents, mosquitoes, and other harmful pests.</p>
+                            <p>
+                                Our vision at <strong>Pestech Solution</strong> is to become a trusted 
+                                <strong>pest control service provider in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> 
+                                delivering safe, effective, and eco-friendly pest management solutions. 
+                                We aim to protect homes, offices, and commercial spaces from termites, cockroaches, rodents, mosquitoes, and other harmful pests.
+                            </p>
                         </div>
 
                         <div class="inner-box clearfix">
@@ -238,12 +262,12 @@
                             <ul class="left-column pull-left">
                                 <li>
                                     <h6>Our Goal</h6>
-                                    <h4>Healthy Pest-Free Environment</h4>
+                                    <h4><strong>Healthy Pest-Free Environment</strong></h4>
                                 </li>
 
                                 <li>
                                     <h6>Our Mission</h6>
-                                    <h4>Reliable Pest Control Solutions</h4>
+                                    <h4><strong>Reliable Pest Control Solutions</strong></h4>
                                 </li>
                             </ul>
 
@@ -251,12 +275,16 @@
 
                                 <li>
                                     <i class="flaticon-check-mark"></i>
-                                    <p>Provide safe and effective pest control services for residential and commercial spaces.</p>
+                                    <p>
+                                        Provide safe and effective <strong>pest control services in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> for residential and commercial spaces.
+                                    </p>
                                 </li>
 
                                 <li>
                                     <i class="flaticon-check-mark"></i>
-                                    <p>Use modern pest management techniques to prevent termite, cockroach, rodent, and mosquito infestations.</p>
+                                    <p>
+                                        Use modern pest management techniques to prevent termite, cockroach, rodent, and mosquito infestations.
+                                    </p>
                                 </li>
 
                             </ul>
@@ -277,17 +305,23 @@
                     <div class="image-box">
 
                         <figure class="image image-1">
-                            <img src="assets/images/resource/about-1.png" alt="Professional Pest Control Service">
+                            <img src="assets/images/resource/about-1.png" 
+                                 alt="Professional Pest Control Services in Ghaziabad, Noida, Gurugram and all over Delhi NCR" 
+                                 loading="lazy">
                         </figure>
 
                         <figure class="image image-2">
-                            <img src="assets/images/resource/about-2.png" alt="Pest Control Experts">
+                            <img src="assets/images/resource/about-2.png" 
+                                 alt="Pest Control Experts in Ghaziabad, Noida, Gurugram and Delhi NCR" 
+                                 loading="lazy">
                         </figure>
 
                         <div class="image-3-bg"></div>
 
                         <figure class="image image-3 rotate-me">
-                            <img src="assets/images/resource/about-4.png" alt="Pest Control Treatment">
+                            <img src="assets/images/resource/about-4.png" 
+                                 alt="Safe Pest Control Treatment in Ghaziabad, Noida, Gurugram and Delhi NCR" 
+                                 loading="lazy">
                         </figure>
 
                     </div>
@@ -301,13 +335,16 @@
 
          <!-- about-style-two -->
         <section class="about-style-two sec-pad bg-color-3">
-    <div class="image-layer" style="background-image: url(assets/images/background/about-1.jpg);"></div>
+    <div class="image-layer" style="background-image: url(assets/images/background/about-1.jpg);" aria-label="Pest Control Services in Ghaziabad, Noida, Gurugram and all over Delhi NCR"></div>
 
     <div class="auto-container">
 
         <div class="sec-title text-left">
             <h6>Our Mission</h6>
-            <h2>Providing Safe & Reliable <br />Pest Control Solutions</h2>
+            <h2>
+                Providing Safe & Reliable <br />
+                <strong>Pest Control Solutions in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong>
+            </h2>
         </div>
 
         <div class="row clearfix">
@@ -315,7 +352,9 @@
             <div class="col-lg-5 col-md-6 col-sm-12 image-column">
                 <div class="image-box">
                     <figure class="image">
-                        <img src="assets/images/resource/about-1.jpg" alt="Professional Pest Control Service">
+                        <img src="assets/images/resource/about-1.jpg" 
+                             alt="Professional Pest Control Services in Ghaziabad, Noida, Gurugram and all over Delhi NCR" 
+                             loading="lazy">
                     </figure>
                 </div>
             </div>
@@ -325,14 +364,16 @@
                     <div class="content-box">
 
                         <p>
-                            Our mission at Pestech Solution is to provide effective and eco-friendly pest control services that protect homes, offices, and commercial spaces from harmful pests such as termites, cockroaches, rodents, ants, flies, and mosquitoes.
+                            Our mission at <strong>Pestech Solution</strong> is to provide effective and eco-friendly 
+                            <strong>pest control services in Ghaziabad, Noida, Gurugram and all over Delhi NCR</strong> 
+                            that protect homes, offices, and commercial spaces from harmful pests such as termites, cockroaches, rodents, ants, flies, and mosquitoes.
                         </p>
 
                         <ul class="list clearfix">
-                            <li>Professional Termite Treatment Services</li>
-                            <li>Cockroach & Rodent Control Solutions</li>
-                            <li>Mosquito Treatment & Fogging Services</li>
-                            <li>Advanced Pest Control Technology</li>
+                            <li><strong>Professional Termite Treatment Services</strong></li>
+                            <li><strong>Cockroach & Rodent Control Solutions</strong></li>
+                            <li><strong>Mosquito Treatment & Fogging Services</strong></li>
+                            <li><strong>Advanced Pest Control Technology</strong></li>
                         </ul>
 
                         <h4>Pestech Solution Team <span>Pest Control Specialists</span></h4>
@@ -365,7 +406,7 @@
 
         <!-- Image -->
         <figure style="margin:0;">
-            <img src="assets/images/resource/achivemnet1.jpg" 
+            <img src="assets/images/resource/achivemnet3.jpeg" 
             alt="ISO Accredited 2005"
             style="width:100%; display:block;">
         </figure>
@@ -390,7 +431,7 @@
 
         <!-- Image -->
         <figure style="margin:0;">
-            <img src="assets/images/resource/achivemnet2.jpeg" 
+            <img src="assets/images/resource/achivemnet1.jpg" 
             alt="ISO Accredited 2005"
             style="width:100%; display:block;">
         </figure>
@@ -415,7 +456,7 @@
 
         <!-- Image -->
         <figure style="margin:0;">
-            <img src="assets/images/resource/achivemnet3.jpeg" 
+            <img src="assets/images/resource/achivemnet2.jpeg" 
             alt="ISO Accredited 2005"
             style="width:100%; display:block;">
         </figure>
