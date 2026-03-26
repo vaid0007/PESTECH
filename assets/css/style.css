@@ -1763,6 +1763,41 @@ div#mCSB_1_container{
   transition-delay: 700ms;
 }
 
+.banner-carousel .content-box h1{
+  position: relative;
+  display: block;
+  color: #fff;
+  font-size: 60px;
+  line-height: 72px;
+  font-weight: 600;
+  margin-bottom: 28px;
+  opacity: 0;
+  -webkit-transform: translateY(100px);
+  -moz-transform: translateY(100px);
+  -ms-transform: translateY(100px);
+  -o-transform: translateY(100px);
+  transform: translateY(100px);
+  -webkit-transition: all 700ms ease;
+  -moz-transition: all 700ms ease;
+  -ms-transition: all 700ms ease;
+  -o-transition: all 700ms ease;
+  transition: all 700ms ease;
+}
+
+.banner-carousel .active .content-box h1{
+  opacity: 1;
+  -webkit-transform: translateY(0);
+  -moz-transform: translateY(0);
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  transform: translateY(0);
+  -webkit-transition-delay: 700ms;
+  -moz-transition-delay: 700ms;
+  -ms-transition-delay: 700ms;
+  -o-transition-delay: 700ms;
+  transition-delay: 700ms;
+}
+
 .banner-carousel .content-box p{
   position: relative;
   display: block;
@@ -4040,7 +4075,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 15px;
   color: #fff;
-  background: #1a378c;
+  background: #000000;
   width: 46px;
   height: 46px;
   line-height: 46px;
@@ -7881,7 +7916,7 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   background: #fff;
-  padding: 47px 20px 47px 140px;
+  padding: 20px 20px 20px 20px;
   border-radius: 5px;
   box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.08);
 }

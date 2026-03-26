@@ -357,27 +357,80 @@
                     <h2>We're Proud to Share Some of <br />Our Achivements</h2>
                 </div>
                 <div class="two-column-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet1.jpeg" alt=""></figure>
-                            <h4>ISO Accredited - 2005</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet2.jpeg" alt=""></figure>
-                            <h4>Best Choice Award - 2008</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
-                    <div class="award-block-one">
-                        <div class="inner-box">
-                            <figure class="award-image"><img src="assets/images/resource/achivemnet3.jpeg" alt=""></figure>
-                            <h4>Best Choice Award - 2008</h4>
-                            <p>Indignation and dislike men who are so demoralized by the charms of pleasure of the moment.</p>
-                        </div>
-                    </div>
+                    <div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet1.jpg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">FIPP Membership Certificate</h4>
+            <p style="color:#666; margin:0;">
+                Pestech Solutions Pvt. Ltd. is a certified member of the Forum of Indian Pest Professionals (FIPP), recognizing our commitment to professional pest management standards and ethical practices.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet2.jpeg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">Pest Mentor India Awards 2025</h4>
+            <p style="color:#666; margin:0;">
+                 Pestech Solutions Pvt. Ltd., Ghaziabad, received recognition at the Pest Mentor India Awards 2025 for its contribution and support in the pest management industry.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="award-block-one" style="width:100%; padding:15px;">
+    
+    <div class="inner-box" 
+    style="width:100%; background:#fff; border-radius:10px; overflow:hidden; 
+    box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:0.3s;">
+
+        <!-- Image -->
+        <figure style="margin:0;">
+            <img src="assets/images/resource/achivemnet3.jpeg" 
+            alt="ISO Accredited 2005"
+            style="width:100%; display:block;">
+        </figure>
+
+        <!-- Content -->
+        <div style="padding:20px; text-align:center;">
+            <h4 style="margin-bottom:10px;">Pest Mentor Signature Award – Youth Icon 2025</h4>
+            <p style="color:#666; margin:0;">
+                Mr. Rahul Goswami of Pestech Solutions Pvt. Ltd. received the Pest Mentor Signature Award – Youth Icon (North India) at the Pest Mentor India Awards 2025 for remarkable leadership and contribution to the pest management industry.
+            </p>
+        </div>
+
+    </div>
+
+</div>
                 </div>
             </div>
         </section>
@@ -393,62 +446,47 @@
                     <div class="btn-box"><a href="index.php" class="theme-btn-three thm-btn">All Members</a></div>
                 </div>
                 <div class="row clearfix">
-                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="col-lg-4 col-md-6 col-sm-12 team-block">
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-.png" alt="">
+                                    <img src="assets/images/team/team-1.jpg" alt="">
                                     <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">John Doe</a></h4>
-                                    <span class="designation">Manager</span>
+                                    <h4><a href="index.php">Arvind </a></h4>
+                                    <span class="designation">Sr.Supervisor</span>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="col-lg-4 col-md-6 col-sm-12 team-block">
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-.png" alt="">
+                                    <img src="assets/images/team/team-2.jpg" alt="">
                                     <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">John Doe</a></h4>
-                                    <span class="designation">Ass. Manager</span>
+                                    <h4><a href="index.php">Sachin</a></h4>
+                                    <span class="designation">Technician</span>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="col-lg-4 col-md-6 col-sm-12 team-block">
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
-                                    <img src="assets/images/team/team-.png" alt="">
+                                    <img src="assets/images/team/team-3.jpg" alt="">
                                     <a href="index.php"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">John Doe</a></h4>
-                                    <span class="designation">Team Head</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                        <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                                <figure class="image-box">
-                                    <img src="assets/images/team/team-.png" alt="">
-                                    <a href="index.php"><i class="fas fa-link"></i></a>
-                                </figure>
-                                <div class="lower-content">
-                                    <h4><a href="index.php">John Doe</a></h4>
-                                    <span class="designation">Senior Cleaner</span>
+                                    <h4><a href="index.php">Sagar</a></h4>
+                                    <span class="designation">Technician</span>
                                 </div>
                             </div>
                         </div>
@@ -607,27 +645,82 @@
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-1.png" alt="Trusted Pest Control Service Partner">
+                    <img src="assets/images/clients/company1.png" alt="Trusted Pest Control Service Partner">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-2.png" alt="Residential Pest Control Client">
+                    <img src="assets/images/clients/company2.png" alt="Residential Pest Control Client">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-3.png" alt="Commercial Pest Control Client">
+                    <img src="assets/images/clients/company3.png" alt="Commercial Pest Control Client">
                 </a>
             </figure>
 
             <figure class="clients-logo-box">
                 <a href="#">
-                    <img src="assets/images/clients/clients-logo-4.png" alt="Mosquito Fogging Service Client">
+                    <img src="assets/images/clients/company4.png" alt="Mosquito Fogging Service Client">
                 </a>
             </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company5.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company6.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            
+
+        </div>
+         <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company7.png" alt="Trusted Pest Control Service Partner">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company8.png" alt="Residential Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company9.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company10.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company11.png" alt="Commercial Pest Control Client">
+                </a>
+            </figure>
+
+            <figure class="clients-logo-box">
+                <a href="#">
+                    <img src="assets/images/clients/company12.png" alt="Mosquito Fogging Service Client">
+                </a>
+            </figure>
+
+            
 
         </div>
 

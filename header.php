@@ -1,33 +1,50 @@
  
  <!-- preloader -->
-     <div class="loader-wrap">
+<div class="loader-wrap">
     <div class="preloader">
         <div class="preloader-close">Preloader Close</div>
+
         <div id="handle-preloader" class="handle-preloader">
+
             <div class="animation-preloader">
-                <div class="spinner"></div>
-                <div class="txt-loading">
-                    <span data-text-preloader="p" class="letters-loading">p</span>
-                    <span data-text-preloader="e" class="letters-loading">e</span>
-                    <span data-text-preloader="s" class="letters-loading">s</span>
-                    <span data-text-preloader="t" class="letters-loading">t</span>
-                    <span data-text-preloader="e" class="letters-loading">e</span>
-                    <span data-text-preloader="c" class="letters-loading">c</span>
-                    <span data-text-preloader="h" class="letters-loading">h</span>
 
-                    <span data-text-preloader=" " class="letters-loading">&nbsp;</span>
+                <!-- Company Logo -->
+                
 
-                    <span data-text-preloader="s" class="letters-loading">s</span>
-                    <span data-text-preloader="o" class="letters-loading">o</span>
-                    <span data-text-preloader="l" class="letters-loading">l</span>
-                    <span data-text-preloader="u" class="letters-loading">u</span>
-                    <span data-text-preloader="t" class="letters-loading">t</span>
-                    <span data-text-preloader="i" class="letters-loading">i</span>
-                    <span data-text-preloader="o" class="letters-loading">o</span>
-                    <span data-text-preloader="n" class="letters-loading">n</span>
-                    <span data-text-preloader="s" class="letters-loading">s</span>
+                <!-- Spinner -->
+                <!-- <div class="spinner"></div> -->
+
+                <div style="text-align:center; margin-bottom:20px;">
+                    <img src="assets/images/logo/footerlogo.jpeg" 
+                         alt="Pestech Solutions Logo"
+                         style="width:400px;">
                 </div>
-            </div>  
+
+                <!-- Company Name -->
+                <!-- <div class="txt-loading">
+                    <span class="letters-loading">P</span>
+                    <span class="letters-loading">E</span>
+                    <span class="letters-loading">S</span>
+                    <span class="letters-loading">T</span>
+                    <span class="letters-loading">E</span>
+                    <span class="letters-loading">C</span>
+                    <span class="letters-loading">H</span>
+
+                    <span>&nbsp;</span>
+
+                    <span class="letters-loading">S</span>
+                    <span class="letters-loading">O</span>
+                    <span class="letters-loading">L</span>
+                    <span class="letters-loading">U</span>
+                    <span class="letters-loading">T</span>
+                    <span class="letters-loading">I</span>
+                    <span class="letters-loading">O</span>
+                    <span class="letters-loading">N</span>
+                    <span class="letters-loading">S</span>
+                </div> -->
+
+            </div>
+
         </div>
     </div>
 </div>
@@ -104,10 +121,8 @@
                             </div>
                             <div class="menu-right-content pull-right clearfix">
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
-                                </ul>
+                                    <li><a href="https://www.facebook.com/pestechsolutions?rdid=6lgFjgz7IH6i5pGH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DcWgcdGvr%2F#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.instagram.com/pestechsolutions1?igsh=MWtydzRxZjVuejE3YQ%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>                                </ul>
                             </div>
                         </div>
                     </div>
@@ -125,9 +140,8 @@
                         </div>
                         <div class="menu-right-content pull-right clearfix">
                             <ul class="social-links clearfix">
-                                <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://www.facebook.com/pestechsolutions?rdid=6lgFjgz7IH6i5pGH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DcWgcdGvr%2F#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/pestechsolutions1?igsh=MWtydzRxZjVuejE3YQ%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>

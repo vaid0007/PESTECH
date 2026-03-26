@@ -99,6 +99,7 @@
                 <div class="content-box">
                     <div class="title">
                         <h1>Ant Treatment</h1>
+                        <h2></h2>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
