@@ -18,7 +18,7 @@
 <meta name="language" content="English">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/contact.html">
+<link rel="canonical" href="https://pestechsolutions.in/contact">
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
@@ -40,16 +40,16 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Contact Pestech Solutions | Pest Control Services">
 <meta property="og:description" content="Get in touch with Pestech Solutions for termite, cockroach, mosquito and rodent pest control services.">
-<meta property="og:url" content="https://yourdomain.com/contact.html">
+<meta property="og:url" content="https://pestechsolutions.in/contact">
 <meta property="og:site_name" content="Pestech Solutions">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta property="og:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Contact Pestech Solutions | Pest Control Services">
 <meta name="twitter:description" content="Call Pestech Solutions for expert pest control services in Ghaziabad, Noida and Gurugram.">
-<meta name="twitter:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta name="twitter:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Geo Location -->
 <meta name="geo.region" content="IN-UP">
@@ -101,7 +101,7 @@
                         <h1>Contact</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li>Contact</li>
                     </ul>
                 </div>

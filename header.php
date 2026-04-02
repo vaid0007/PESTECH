@@ -58,7 +58,7 @@
                 <div class="auto-container">
                     <div class="upper-inner clearfix">
                         <div class="logo-box pull-left">
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo/logo.png" alt=""></a></figure>
+                            <figure class="logo"><a href="./"><img src="assets/images/logo/logo.png" alt=""></a></figure>
                         </div>
                         <div class="right-column pull-right">
                             <ul class="info-list clearfix">
@@ -73,7 +73,7 @@
 <h5>pestechsolutions1@gmail.com</h5>
                                 </li>
                                 <li class="btn-box">
-                                    <a href="index.php" class="theme-btn-four thm-btn">Request a Quote</a>
+                                    <a href="./" class="theme-btn-four thm-btn">Request a Quote</a>
                                 </li>
                             </ul>
                         </div>
@@ -96,25 +96,25 @@
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
-                                            <li class="current"><a href="index.php">Home</a>
+                                            <li class="current"><a href="./">Home</a>
                                             </li>
-                                            <li class=""><a href="about.php">About</a>
+                                            <li class=""><a href="about">About</a>
                                             </li> 
                                             <li class="dropdown"><a href="#">Services</a>
                                                 <ul>
-                                                    <li><a href="rodent-treatment.php">Rodent Treatment</a></li>
-<li><a href="ant-treatment.php">Ant Treatment</a></li>
-<li><a href="mosquito-treatment.php">Mosquito Treatment</a></li>
-<li><a href="mosquito-fogging.php">Mosquito Fogging Treatment</a></li>
-<li><a href="cockroach-treatment.php">Cockroach Treatment</a></li>
-<li><a href="fly-treatment.php">Fly Treatment</a></li>
-<li><a href="termite-treatment.php">Termite Treatment</a></li>
+                                                    <li><a href="rodent-treatment">Rodent Treatment</a></li>
+<li><a href="ant-treatment">Ant Treatment</a></li>
+<li><a href="mosquito-treatment">Mosquito Treatment</a></li>
+<li><a href="mosquito-fogging">Mosquito Fogging Treatment</a></li>
+<li><a href="cockroach-treatment">Cockroach Treatment</a></li>
+<li><a href="fly-treatment">Fly Treatment</a></li>
+<li><a href="termite-treatment">Termite Treatment</a></li>
                                                 </ul>
                                             </li>  
-                                            <li class="gallery.php"><a href="gallery.php">Gallery</a>
-                                            <!-- <li class=""><a href="blog.php">Blog</a> -->
+                                            <li class="gallery"><a href="gallery">Gallery</a>
+                                            <!-- <li class=""><a href="blog">Blog</a> -->
                                             </li>  
-                                            <li><a href="contact.php">Contact</a></li>   
+                                            <li><a href="contact">Contact</a></li>   
                                         </ul>
                                     </div>
                                 </nav>
@@ -156,7 +156,7 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="./"><img src="assets/images/logo/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
@@ -168,11 +168,11 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="./"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="./"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="./"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="./"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="./"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>

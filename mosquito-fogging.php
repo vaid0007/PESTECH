@@ -18,7 +18,7 @@
 <meta name="language" content="English">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/mosquito-fogging-treatment.html">
+<link rel="canonical" href="https://pestechsolutions.in/mosquito-fogging-treatment">
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
@@ -41,16 +41,16 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Mosquito Fogging Treatment for Societies | Pestech Solutions">
 <meta property="og:description" content="Get professional mosquito fogging services for residential societies and commercial spaces with effective pest control solutions.">
-<meta property="og:url" content="https://yourdomain.com/mosquito-fogging-treatment.html">
+<meta property="og:url" content="https://pestechsolutions.in/mosquito-fogging-treatment">
 <meta property="og:site_name" content="Pestech Solutions">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta property="og:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mosquito Fogging Treatment for Societies | Pestech Solutions">
 <meta name="twitter:description" content="Expert mosquito fogging treatment services in Ghaziabad, Noida and Gurugram.">
-<meta name="twitter:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta name="twitter:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Geo Location -->
 <meta name="geo.region" content="IN-UP">
@@ -101,7 +101,7 @@
                         <h2></h2>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li>Services</li>
                         <li>Service Details</li>
                     </ul>
@@ -219,7 +219,7 @@
                 <div class="doc-content">
                     <h6>Service Brochure</h6>
                     <span>Mosquito Fogging Guide</span>
-                    <a href="mosquito-fogging.html">View Service</a>
+                    <a href="mosquito-fogging">View Service</a>
                 </div>
             </div>
         </div>

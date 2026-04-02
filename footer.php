@@ -38,7 +38,7 @@
                     <div class="row clearfix">
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.php"><img src="assets/images/logo/footerlogo.jpeg" alt=""></a></figure>
+                                <figure class="footer-logo"><a href="./"><img src="assets/images/logo/footerlogo.jpeg" alt=""></a></figure>
                                 <div class="text">
                                     <p>Indignation and dislike men who are so beguiled and demoralized moment by desire.</p>
                                 </div>
@@ -56,9 +56,9 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="./">Home</a></li>
                                         <li><a href="about.php">About Us</a></li>
-                                        <li><a href="index.php">Services</a></li>
+                                        <li><a href="./">Services</a></li>
                                         <li><a href="blog.php">Blog</a></li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -72,13 +72,13 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="index.php">Rodent Treatment</a></li>
-                                        <li><a href="index.php">Ant Treatment</a></li>
-                                        <li><a href="index.php">Mosquito Treatment</a></li>
-                                        <li><a href="index.php">Mosquito Fogging treatment for Societies</a></li>
-                                        <li><a href="index.php">Cockroach Treatment</a></li>
-                                        <li><a href="index.php">Fly Treatment</a></li>
-                                        <li><a href="index.php">Termite Treatment</a></li>
+                                        <li><a href="./">Rodent Treatment</a></li>
+                                        <li><a href="./">Ant Treatment</a></li>
+                                        <li><a href="./">Mosquito Treatment</a></li>
+                                        <li><a href="./">Mosquito Fogging treatment for Societies</a></li>
+                                        <li><a href="./">Cockroach Treatment</a></li>
+                                        <li><a href="./">Fly Treatment</a></li>
+                                        <li><a href="./">Termite Treatment</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                     </div>
                 </div>
                 <div class="footer-bottom centred">
-                    <p>&copy; 2026 By <a href="index.php">PESTECH SOLUTION</a>, All Rights Reserved by <a href="https://www.freelancesociety.in/">freelancesociety</a></p>
+                    <p>&copy; 2026 By <a href="./">PESTECH SOLUTION</a>, All Rights Reserved by <a href="https://www.freelancesociety.in/">freelancesociety</a></p>
                 </div>
             </div>
         </footer>

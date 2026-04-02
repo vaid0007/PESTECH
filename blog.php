@@ -18,7 +18,7 @@
 <meta name="language" content="English">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/blog.html">
+<link rel="canonical" href="https://pestechsolutions.in/blog">
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
@@ -40,16 +40,16 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Pest Control Blog | Tips & Guides - Pestech Solutions">
 <meta property="og:description" content="Discover expert pest control tips and prevention guides for termites, cockroaches, rodents and mosquitoes.">
-<meta property="og:url" content="https://yourdomain.com/blog.html">
+<meta property="og:url" content="https://pestechsolutions.in/blog">
 <meta property="og:site_name" content="Pestech Solutions">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta property="og:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pest Control Blog | Tips & Guides - Pestech Solutions">
 <meta name="twitter:description" content="Expert pest control tips and guides from Pestech Solutions.">
-<meta name="twitter:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta name="twitter:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Geo Location -->
 <meta name="geo.region" content="IN-UP">
@@ -104,7 +104,7 @@
                         <h1>Blog Simple</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li>Blog</li>
                         <li>Blog Simple</li>
                     </ul>

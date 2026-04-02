@@ -18,7 +18,7 @@
 <meta name="language" content="English">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/gallery.html">
+<link rel="canonical" href="https://pestechsolutions.in/gallery">
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
@@ -41,16 +41,16 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Gallery | Pestech Solutions Pest Control Work & Projects">
 <meta property="og:description" content="View our pest control gallery featuring termite treatment, cockroach control, rodent control and other pest management services.">
-<meta property="og:url" content="https://yourdomain.com/gallery.html">
+<meta property="og:url" content="https://pestechsolutions.in/gallery">
 <meta property="og:site_name" content="Pestech Solutions">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://yourdomain.com/assets/images/gallery/gallery-1.jpg">
+<meta property="og:image" content="https://pestechsolutions.in/assets/images/gallery/gallery-1.jpg">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pest Control Work Gallery | Pestech Solutions">
 <meta name="twitter:description" content="Check our pest control service gallery with real project images.">
-<meta name="twitter:image" content="https://yourdomain.com/assets/images/gallery/gallery-1.jpg">
+<meta name="twitter:image" content="https://pestechsolutions.in/assets/images/gallery/gallery-1.jpg">
 
 <!-- Geo Location -->
 <meta name="geo.region" content="IN-UP">
@@ -99,7 +99,7 @@
                         <h1>Our Gallery</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li>About</li>
                         <li>Gallery</li>
                     </ul>

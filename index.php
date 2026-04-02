@@ -29,7 +29,7 @@
     <meta name="language" content="English" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://yourdomain.com/" />
+    <link rel="canonical" href="https://pestechsolutions.in/" />
 
     <!-- Favicons -->
     <link
@@ -81,12 +81,12 @@
       property="og:description"
       content="Reliable pest control services including termite, cockroach, mosquito and rodent treatment in Ghaziabad, Noida, Gurugram and nearby areas."
     />
-    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta property="og:url" content="https://pestechsolutions.in/" />
     <meta property="og:site_name" content="Pestech Solutions" />
     <meta property="og:locale" content="en_IN" />
     <meta
       property="og:image"
-      content="https://yourdomain.com/assets/images/logo/logo.png"
+      content="https://pestechsolutions.in/assets/images/logo/logo.png"
     />
 
     <!-- Twitter -->
@@ -101,7 +101,7 @@
     />
     <meta
       name="twitter:image"
-      content="https://yourdomain.com/assets/images/logo/logo.png"
+      content="https://pestechsolutions.in/assets/images/logo/logo.png"
     />
 
     <!-- Geo Location -->
@@ -892,7 +892,7 @@
                               <div class="other-text">
                                 <p>
                                   Don’t Wait to Clean Your Work Place,
-                                  <a href="account.html">Make an Appointment</a>
+                                  <a href="account">Make an Appointment</a>
                                 </p>
                                 <div
                                   class="arrow"
@@ -954,7 +954,7 @@
                               <div class="other-text">
                                 <p>
                                   Don’t Wait to Clean Your Work Place,
-                                  <a href="account.html">Make an Appointment</a>
+                                  <a href="account">Make an Appointment</a>
                                 </p>
                                 <div
                                   class="arrow"
@@ -1016,7 +1016,7 @@
                               <div class="other-text">
                                 <p>
                                   Don’t Wait to Clean Your Work Place,
-                                  <a href="account.html">Make an Appointment</a>
+                                  <a href="account">Make an Appointment</a>
                                 </p>
                                 <div
                                   class="arrow"
@@ -1078,7 +1078,7 @@
                               <div class="other-text">
                                 <p>
                                   Don’t Wait to Clean Your Work Place,
-                                  <a href="account.html">Make an Appointment</a>
+                                  <a href="account">Make an Appointment</a>
                                 </p>
                                 <div
                                   class="arrow"

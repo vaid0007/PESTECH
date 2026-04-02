@@ -18,7 +18,7 @@
 <meta name="language" content="English">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/about.html">
+<link rel="canonical" href="https://pestechsolutions.in/about">
 
 <!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/apple-touch-icon.png">
@@ -40,16 +40,16 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="About Pestech Solutions | Trusted Pest Control Experts">
 <meta property="og:description" content="Professional pest control experts providing termite, cockroach, mosquito and rodent treatment in Ghaziabad, Noida and nearby areas.">
-<meta property="og:url" content="https://yourdomain.com/about.html">
+<meta property="og:url" content="https://pestechsolutions.in/about">
 <meta property="og:site_name" content="Pestech Solutions">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta property="og:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="About Pestech Solutions | Trusted Pest Control Experts">
 <meta name="twitter:description" content="Trusted pest control company serving Ghaziabad, Noida and Gurugram with termite, cockroach and mosquito treatment.">
-<meta name="twitter:image" content="https://yourdomain.com/assets/images/logo/logo.png">
+<meta name="twitter:image" content="https://pestechsolutions.in/assets/images/logo/logo.png">
 
 <!-- Geo Location -->
 <meta name="geo.region" content="IN-UP">
@@ -104,7 +104,7 @@
                         <h1>Our Company</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li>About</li>
                         <li>Company</li>
                     </ul>
@@ -484,7 +484,7 @@
                 <div class="sec-title text-left">
                     <h6>Meet Our Team</h6>
                     <h2>Team Behind Our Success</h2>
-                    <div class="btn-box"><a href="index.php" class="theme-btn-three thm-btn">All Members</a></div>
+                    <div class="btn-box"><a href="./" class="theme-btn-three thm-btn">All Members</a></div>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-6 col-sm-12 team-block">
@@ -493,10 +493,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-1.jpg" alt="">
-                                    <a href="index.php"><i class="fas fa-link"></i></a>
+                                    <a href="./"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">Arvind </a></h4>
+                                    <h4><a href="./">Arvind </a></h4>
                                     <span class="designation">Sr.Supervisor</span>
                                 </div>
                             </div>
@@ -508,10 +508,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-2.jpg" alt="">
-                                    <a href="index.php"><i class="fas fa-link"></i></a>
+                                    <a href="./"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">Sachin</a></h4>
+                                    <h4><a href="./">Sachin</a></h4>
                                     <span class="designation">Technician</span>
                                 </div>
                             </div>
@@ -523,10 +523,10 @@
                                 <div class="pattern" style="background-image: url(assets/images/shape/shape-9.png);"></div>
                                 <figure class="image-box">
                                     <img src="assets/images/team/team-3.jpg" alt="">
-                                    <a href="index.php"><i class="fas fa-link"></i></a>
+                                    <a href="./"><i class="fas fa-link"></i></a>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index.php">Sagar</a></h4>
+                                    <h4><a href="./">Sagar</a></h4>
                                     <span class="designation">Technician</span>
                                 </div>
                             </div>
@@ -551,7 +551,7 @@
                     <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                         <div class="text">
                             <h4>Do You Any Have Questions?</h4>
-                            <a href="faq.html">View Our Faq’s<i class="fal fa-long-arrow-right"></i></a>
+                            <a href="faq">View Our Faq’s<i class="fal fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -604,7 +604,7 @@
                                 <div class="content-box">
                                     <h3>Green Cleaning</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -614,7 +614,7 @@
                                 <div class="content-box">
                                     <h3>Bonded & Insured</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -624,7 +624,7 @@
                                 <div class="content-box">
                                     <h3>Free Quotations</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -634,7 +634,7 @@
                                 <div class="content-box">
                                     <h3>Trained Employees</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -644,7 +644,7 @@
                                 <div class="content-box">
                                     <h3>Locally Owned</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -654,7 +654,7 @@
                                 <div class="content-box">
                                     <h3>Satisfaction Gurante</h3>
                                     <p>Denounce with righteous indignation and dislike men who are  beguiled works and demoralized by the charms of pleasure.</p>
-                                    <a href="about.html">Read More</a>
+                                    <a href="about">Read More</a>
                                 </div>
                             </div>
                         </div>
